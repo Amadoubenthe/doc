@@ -7,13 +7,13 @@ title: Administrateur
 
 L'**Administrateur** est la personne qui va administrer l'établisement il à tout les droits
 
-## Connection 
+## Connexion Administrateur
 
-Utiliser les identifiants de l'administrateur pour vous connectez 
+Utilisez les identifiants de l'**administrateur** pour vous connectez 
 
 le mot de passe par défaut est: 123456789
 
-![img](../static/img/Connexion.png)
+![img](../static/img/connectAdmin.png)
 
 ## Tableau de bord de l'Administrateur
 
@@ -28,7 +28,7 @@ La première chose à faire et de paramétrer l’application (Les informations 
 
 :::
 
-Dans la barre de menu à gauche, aller cliquer sur **Paramètres**, avant dernier menu
+Dans la barre de menu à gauche, cliquez sur **Paramètres**, avant dernier menu
 
 ![img](../static/img/Param1.PNG)
 
@@ -36,16 +36,16 @@ Dans la barre de menu à gauche, aller cliquer sur **Paramètres**, avant dernie
 
 ![img](../static/img/Administrateur/Ecole.png)
 
-La première tâche est la finalisation des informations sur l’école; lorsque cela est terminé, cliquer sur le bouton **Enregistrer**
+La première tâche est la finalisation des informations sur l’école; lorsque cela est terminé, cliquez sur le bouton **Enregistrer**
 
 ### Les Niveaux
 
 ![img](../static/img/Administrateur/Niveau.png)
 
-Les niveaux du primaire par défaut sont affichés :
+Les niveaux du primaire par défaut sont déjà définis affichés :
 Pour modifier cliquer sur l’icône **crayon** en face du niveau
 Pour supprimer cliquer sur l’icône de la **corbeille**
-Pour ajouter des niveaux : écrire le nom du niveau dans le champ prévu à cet effet puis cliquer sur **Ajouter**
+Pour ajouter des niveaux : écrivez le nom du niveau dans le champ prévu à cet effet puis cliquez sur **Ajouter**
 
 ### Matière
 
@@ -53,9 +53,10 @@ IL S’AGIT ICI DE CRÉER UNE LISTE DE TOUTES LES MATIERES ENSEIGNEES DANS VOTRE
 
 ![img](../static/img/Matière.PNG)
 
-Ecrire le nom de la matière dans le champ **libelle de la matière**<br/>
-Générer une couleur à attribuer à la matière en cliquant sur le champ **générer une couleur**<br />
-Cliquer ensuite sur **créer la matière** pour l’ajouter ; <br />Répéter l’action jusqu’à créer toutes les matières enseignées dans votre établissement
+Ecrivez le nom de la matière dans le champ **libelle de la matière**<br/>
+Générez une couleur à attribuer à la matière en cliquant sur le champ **générer une couleur**<br />
+Cliquez ensuite sur **créer la matière** pour l’ajouter ; <br />
+Répétez l’action jusqu’à créez toutes les matières enseignées dans votre établissement.
 
 ### Matières et Niveaux
 
@@ -66,33 +67,29 @@ Cliquer ensuite sur **créer la matière** pour l’ajouter ; <br />Répéter l�
 ![img](../static/img/Administrateur/MatiereNiveau.png) -->
 IL S’AGIT ICI DE LIER LES MATIERES CREEES AU PREALABLE AU IVEAUX CREES EGALEMENT
 
-Cliquer dans le champ **niveau** et sélectionner un niveau<br/>
-Cliquer dans sélectionner matières et cliquer sur toutes les matières que vous voulez lier au niveau que vous avez choisi<br/>
-Cliquer sur **Ajouter** et répéter l’action jusqu’à lier des matières à tous les niveaux que vous avez créé.
+Cliquez dans le champ **niveau** et sélectionnez un niveau **CP1** par Example<br/>
+Cliquez dans le champ **Matière** sélectionnez une matière, ou cliquez sur toutes les matières que vous voulez lier au niveau que vous avez choisi<br/>
+Cliquer sur **Ajouter** et répétez l’action jusqu’à lier des matières à tous les niveaux que vous avez créé.
 
 ### Dossiers Scolaire
 
 ![img](../static/img/Administrateur/DossierScolaire.png)
 
 
-Cliquer sur **Nouveau** en haut à droite
+Cliquez sur **Nouveau** en haut à droite
 
 ![img](../static/img/Administrateur/Doss1.PNG)
 
-Ensuite cliquer sur **Selectionner un Niveau**
+Ensuite cliquez sur **Selectionner un Niveau**
 
 ![img](../static/img/Administrateur/Doss2.PNG)
 
 ![img](../static/img/Administrateur/Doss21.PNG)
 
-Ensuite ecrire l’intitulé du dossier dans le champ **Libelle du Document**
-
-Ensuite cliquer sur le **+**
+Ensuite ecrivez l’intitulé du dossier dans le champ **Libelle du Document** <br/>
+Ensuite cliquez sur le **+**
 
 ![img](../static/img/Administrateur/Doss3.PNG)
-
-Repeter l’action jusqu’à créer la liste de tous les dossiers à fournir pour le niveau et
-Cliquer sur **Enregistrer** refaire la même action pour tous les niveaux.
 
 ### Horaire de Cours
 
@@ -106,13 +103,13 @@ UTILISER LA PLUS PETITE UNITE HORAIRE POUR FACILITER LA CREATION
 
 :::
 
-Renseigner une heure de début dans la zone **Heure de début** et une heure de fin dans la zone **Heure de fin**<br/>
+Renseignez une heure de début dans la zone **Heure de début** et une heure de fin dans la zone **Heure de fin**<br/>
 **Ex : 7h 30 - 8h 15**<br/>
-Cliquer sur **Ajouter** et répéter jusqu’à la fin.
+Cliquez sur **Ajouter** et répétez jusqu’à la fin.
 
 ### Nom d’expéditeur
 
-**Nom d’expéditeur** est le nom qui va apparaitre lorsque les parents recevront des sms de l’école.<br />
+**Nom d’expéditeur** .<br />
 **Ex : EPP ORPHEE**
 :::warning
 
@@ -130,16 +127,16 @@ Il s’agit de préenregistrer des modèles de messages<br/>
 
 <!-- ![img](../static/img/ModeleMeassage.PNG) -->
 
-Dans le champ **Titre** écrire le titre du message<br/> 
-**Ex : mardi gras**<br/>
-Dans le champ **Message** écrire le contenu du message 
-Cliquer sur **Ajouter**
+Dans le champ **Titre** écrivez le titre du message<br/> 
+**Ex : Mardi Gras**<br/>
+Dans le champ **Message** écrivez le contenu du message ensuite
+Cliquez sur **Ajouter**
 
 ### Notifications SMS
 
 ![img](../static/img/Administrateur/NotifSMS.png)
 
-Il s’agit de choisir un nom d’expéditeur dans l'onglet **Choisissez un nom d’expéditeur** pour les envois des différentes notifications d’informations aux parents à savoir et cliquer sur le bouton **Enregistrer**
+Il s’agit de choisir un nom d’expéditeur dans l'onglet **Choisissez un nom d’expéditeur** pour les envois des différentes notifications d’informations aux parents à savoir et cliquez sur le bouton **Enregistrer**
 
 
 
