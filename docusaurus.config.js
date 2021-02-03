@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Akilyx-doc',
+  title: 'Akylix-doc',
   tagline: 'Plateforme de gestion des écoles',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
