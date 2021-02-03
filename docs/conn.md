@@ -56,6 +56,6 @@ Pour vous déconnectez cliquez dans les initiales en haut à droite dans le cerc
 
 ![img](../static/img/Deconnexion1.png)
 
-![img](../static/img/Deconnexion2.png)
+<!-- ![img](../static/img/Deconnexion2.png) -->
 
 ---
