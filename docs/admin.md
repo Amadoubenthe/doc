@@ -62,9 +62,6 @@ Répétez l’action jusqu’à créez toutes les matières enseignées dans vot
 
 ![img](../static/img/Administrateur/MatiereNiveau.png)
 
-<!-- ![img](../static/img/Administrateur/Niveau.png)
-
-![img](../static/img/Administrateur/MatiereNiveau.png) -->
 IL S’AGIT ICI DE LIER LES MATIERES CREEES AU PREALABLE AU IVEAUX CREES EGALEMENT
 
 Cliquez dans le champ **niveau** et sélectionnez un niveau **CP1** par Example<br/>
@@ -124,8 +121,6 @@ Le nom d’expéditeur doit être constitué de 11 caractères donc vous pouvez 
 Il s’agit de préenregistrer des modèles de messages<br/>
 
 ![img](../static/img/Administrateur/ModeleMessage.png)
-
-<!-- ![img](../static/img/ModeleMeassage.PNG) -->
 
 Dans le champ **Titre** écrivez le titre du message<br/> 
 **Ex : Mardi Gras**<br/>
