@@ -1,13 +1,13 @@
 ---
 id: admin
-title: Administrateur
+title: Administrateur et Parametrages
 ---
 
 ## Administrateur
 
 L'**Administrateur** est la personne qui va administrer l'établisement il à tout les droits
 
-## Connexion Administrateur
+### Connexion Administrateur
 
 Utilisez les identifiants de l'**administrateur** pour vous connectez 
 
@@ -15,7 +15,7 @@ le mot de passe par défaut est: 123456789
 
 ![img](../static/img/connectAdmin.png)
 
-## Tableau de bord de l'Administrateur
+### Tableau de bord de l'Administrateur
 
 ![img](../static/img/Administrateur/tableauBordAdmin.png)
 
