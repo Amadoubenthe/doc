@@ -8,6 +8,7 @@ module.exports = {
   favicon: 'img/Akylixfavicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
+  
   themeConfig: {
     navbar: {
       title: 'Akylix',

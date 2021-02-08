@@ -24,7 +24,7 @@ le mot de passe par défaut est: 123456789
 
 :::important
 
-La première chose à faire et de paramétrer l’application (Les informations des paramètres sont des informations qui ne changent pas forcement chaque année
+La première chose à faire est de paramétrer l’application (Les informations des paramètres sont des informations qui ne changent pas forcement chaque année
 
 :::
 
@@ -64,7 +64,7 @@ Répétez l’action jusqu’à créez toutes les matières enseignées dans vot
 
 IL S’AGIT ICI DE LIER LES MATIERES CREEES AU PREALABLE AU IVEAUX CREES EGALEMENT
 
-Cliquez dans le champ **niveau** et sélectionnez un niveau **CP1** par Example<br/>
+Cliquez dans le champ **niveau** et sélectionnez un niveau *CP1 par Example*<br/>
 Cliquez dans le champ **Matière** sélectionnez une matière, ou cliquez sur toutes les matières que vous voulez lier au niveau que vous avez choisi<br/>
 Cliquer sur **Ajouter** et répétez l’action jusqu’à lier des matières à tous les niveaux que vous avez créé.
 
@@ -84,7 +84,7 @@ Ensuite cliquez sur **Selectionner un Niveau**
 ![img](../static/img/Administrateur/Doss21.PNG)
 
 Ensuite ecrivez l’intitulé du dossier dans le champ **Libelle du Document** <br/>
-Ensuite cliquez sur le **+**
+puis cliquez sur le bouton **+**
 
 ![img](../static/img/Administrateur/Doss3.PNG)
 

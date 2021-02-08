@@ -38,11 +38,13 @@ Ou saisissez l'url suivante :
 
 ### Page d'Accueil
 
-![img](../static/img/Connexion.png)
+
+![img](../static/img/PageAccueildiallo.PNG)
+
 
 ---
 
-## Soummettre son etablissement
+## Soummettre son établissement
 
 Une fois sur Akylix vous devez soumettre votre établissement.
 
@@ -52,9 +54,13 @@ La soumission d'établissement se fait une seule fois par établissement
 
 :::
 
+![img](../static/img/Connexion.png)
+
 Pour soumettre votre établissement cliquez sur **SOUMETTRE MON ETABLISSEMENT** et renseignez toutes les informations. <br />
 Cliquez dans la case **J'accepte les conditions générales d'utilisation**<br />
 Ensuite cliquez sur le bouton **SOUMETTRE MON ETABLISSEMENT**
+
+![img](../static/img/Soumettre.png)
 
 :::note
 
@@ -64,7 +70,8 @@ Précédez de 225 les contacts téléphoniques et n’y ajoutez aucun espace
 
 :::
 
-![img](../static/img/Soumettre.png)
+<!-- ![img](../static/img/Soumissiondiallo.PNG) -->
+
 :::note
 
 Vous recevrez un message vous notifiant la prise en compte de votre enregistrement et son traitement

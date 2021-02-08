@@ -54,6 +54,15 @@ function Feature({imageUrl, title, description}) {
   );
 }
 
+
+function MyComponent() {
+  return (
+    <main>
+      <h1 className="purple-text">Purple Heading!</h1>
+    </main>
+  );
+}
+
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
@@ -89,8 +98,10 @@ function Home() {
             </div>
           </section>
         )}
+        <MyComponent />
       </main>
     </Layout>
+    
   );
 }
 
