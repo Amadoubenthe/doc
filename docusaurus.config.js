@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Akylix-doc',
-  tagline: 'Plateforme de gestion des écoles',
+  tagline: 'Une application web et mobile conçue pour optimiser la gestion des établissements scolaires et la communication par SMS avec les parents d\'élèves',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Gestion des inscriptions et réinscriptions',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Cette fonctionnalité permet de gérer les opérations d'inscription et réinscription des élèves.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Gestion des notes et des moyennes',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        La gestion des notes concerne les programmations, la saisie des notes et la publication des moyennes ainsi que le classement des élèves.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Communication avec les parents',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Cette fonctionnalité sert à effectuer des campgnes SMS vers les numéros des parents d'élèves.
       </>
     ),
   },
@@ -48,8 +45,8 @@ function Feature({imageUrl, title, description}) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
-      <p>{description}</p>
+      <h3 className="text--center">{title}</h3>
+      <p className="text--center">{description}</p>
     </div>
   );
 }
