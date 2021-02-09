@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Gestion des inscriptions et réinscriptions',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/Groupe8756.png',
     description: (
       <>
         Cette fonctionnalité permet de gérer les opérations d'inscription et réinscription des élèves.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: 'Gestion des notes et des moyennes',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/Groupe8747.png',
     description: (
       <>
         La gestion des notes concerne les programmations, la saisie des notes et la publication des moyennes ainsi que le classement des élèves.
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: 'Communication avec les parents',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/Groupe8748.png',
     description: (
       <>
         Cette fonctionnalité sert à effectuer des campgnes SMS vers les numéros des parents d'élèves.
@@ -51,14 +51,28 @@ function Feature({imageUrl, title, description}) {
   );
 }
 
-
-function MyComponent() {
+function Image() {
   return (
-    <main>
-      <h1 className="purple-text">Purple Heading!</h1>
-    </main>
+    <img className={styles.img} src={useBaseUrl('img/dashboard2.png')} alt="dashboard" />
+    // <main>
+    //   {/* <h1 className="purple-text">Purple Heading!</h1> */}
+    //   <div className="container">
+    //     <div className="row">
+    //       {/* <img className={styles.img} src={useBaseUrl('img/dashboard.PNG')} alt="dashboard" /> */}
+    //     </div>
+    //   </div>
+      
+    // </main>
   );
 }
+
+// function MyComponent() {
+//   return (
+//     <main>
+//       <Image />
+//     </main>
+//   );
+// }
 
 function Home() {
   const context = useDocusaurusContext();
@@ -73,16 +87,35 @@ function Home() {
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
+              // button button--primary button--lg : button button--outline button--secondary button--lg
               className={clsx(
-                'button button--outline button--secondary button--lg',
+                'button button--primary button--lg',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
               Get Started
             </Link>
           </div>
+
+          <div className={styles.heights}></div>
+          
         </div>
+
+        {/* <div className={styles.heights}>
+
+        </div> */}
+      
       </header>
+
+      <div className={styles.comntentImg}>
+        <Image />
+      </div>
+      
+      <div className={styles.heights}></div>
+      <br></br><br></br><br></br><br></br>
+      
+      <h2 className="text--center">Quelques fonctionnalités</h2>
+      
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
@@ -95,7 +128,7 @@ function Home() {
             </div>
           </section>
         )}
-        <MyComponent />
+        
       </main>
     </Layout>
     

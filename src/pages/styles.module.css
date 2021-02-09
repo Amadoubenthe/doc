@@ -10,6 +10,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+
 }
 
 @media screen and (max-width: 966px) {
@@ -36,3 +37,28 @@
   width: 200px;
 }
 
+/* Ajout */
+
+.comntentImg{
+  position: relative;
+  padding-top: 50px;
+}
+
+.img{
+  border-radius: 20px;
+  border: 5px solid black;
+  box-shadow: 1px 1px 30px #555;
+  width: 900px;
+  position: absolute;
+  z-index: 100;
+  top: 80%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%); 
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.heights{
+  height: 250px;
+}
