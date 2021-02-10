@@ -78,7 +78,7 @@ Sur la première page, vous pouvez sélectionner un niveau dans le champ **séle
 
 Ce module comprend la partie **INSCRIPTION** et la partie **REINSCRIPTION**.
 
-![img](../static/img/Inscription/inscription1.PNG)
+<!-- ![img](../static/img/Inscription/inscription1.PNG) -->
 
 La partie **INSCRIPTION** concerne les nouveaux élèves et la partie **REINSCRIPTION** pour les anciens élèves.
 
