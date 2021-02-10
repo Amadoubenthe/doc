@@ -86,7 +86,7 @@ La partie **INSCRIPTION** concerne les nouveaux élèves et la partie **REINSCRI
 
 Pour inscrir un nouveau élève Cliquez sur **Nouvelle inscription** en haut à droite
 
-![img](../static/img/Inscription/inscription2.PNG)
+<!-- ![img](../static/img/Inscription/inscription2.PNG) -->
 
 Renseigner les informations **seule les champs comportant un Astérix (*)** sont obligatoires. Les autres informations peuvent être renseignée plus tard.<br />
 Vous pouvez ajouter une photo <br />
