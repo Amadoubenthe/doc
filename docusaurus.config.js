@@ -14,7 +14,7 @@ module.exports = {
       title: 'Akylix',
       logo: {
         alt: 'Akylix',
-        src: 'img/logoAkylix2.svg',
+        src: 'img/LOGO/LOGO.png',
       },
       items: [
         {

@@ -53,7 +53,8 @@ function Feature({imageUrl, title, description}) {
 
 function Image() {
   return (
-    <img className={styles.img} src={useBaseUrl('img/dashboard2.png')} alt="dashboard" />
+    <img className={styles.img} src={useBaseUrl('img/Groupe13112.png')} alt="dashboard" />
+    // <img className={styles.img} src={useBaseUrl('img/dashboard2.png')} alt="dashboard" />Groupe13112.png
     // <main>
     //   {/* <h1 className="purple-text">Purple Heading!</h1> */}
     //   <div className="container">
