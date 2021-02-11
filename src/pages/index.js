@@ -45,7 +45,7 @@ function Feature({imageUrl, title, description}) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3 className="text--center">{title}</h3>
+      <h2 className="text--center">{title}</h2>
       <p className="text--center">{description}</p>
     </div>
   );
@@ -54,26 +54,8 @@ function Feature({imageUrl, title, description}) {
 function Image() {
   return (
     <img className={styles.img} src={useBaseUrl('img/Groupe13112.png')} alt="dashboard" />
-    // <img className={styles.img} src={useBaseUrl('img/dashboard2.png')} alt="dashboard" />Groupe13112.png
-    // <main>
-    //   {/* <h1 className="purple-text">Purple Heading!</h1> */}
-    //   <div className="container">
-    //     <div className="row">
-    //       {/* <img className={styles.img} src={useBaseUrl('img/dashboard.PNG')} alt="dashboard" /> */}
-    //     </div>
-    //   </div>
-      
-    // </main>
   );
 }
-
-// function MyComponent() {
-//   return (
-//     <main>
-//       <Image />
-//     </main>
-//   );
-// }
 
 function Home() {
   const context = useDocusaurusContext();
@@ -88,9 +70,8 @@ function Home() {
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
-              // button button--primary button--lg : button button--outline button--secondary button--lg
               className={clsx(
-                'button button--primary button--lg',
+                'button button--info',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
@@ -101,10 +82,6 @@ function Home() {
           <div className={styles.heights}></div>
           
         </div>
-
-        {/* <div className={styles.heights}>
-
-        </div> */}
       
       </header>
 

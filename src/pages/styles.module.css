@@ -7,7 +7,10 @@
 
 .heroBanner {
   padding: 4rem 0;
+
+  /* padding: 200px; */
   text-align: center;
+  color: #fff;
   position: relative;
   overflow: hidden;
 
@@ -33,11 +36,19 @@
 }
 
 .featureImage {
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
+}
+
+.getStarted{
+  padding: 10px 30px;
 }
 
 /* Ajout */
+
+.btn{
+  width: 15px;
+}
 
 .comntentImg{
   position: relative;
@@ -48,7 +59,7 @@
   border-radius: 20px;
   border: 5px solid black;
   box-shadow: 1px 1px 30px #555;
-  width: 900px;
+  width: 1000px;
   position: absolute;
   z-index: 100;
   top: 80%;

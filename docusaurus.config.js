@@ -11,10 +11,10 @@ module.exports = {
   
   themeConfig: {
     navbar: {
-      title: 'Akylix',
+      // title: 'Akylix',
       logo: {
         alt: 'Akylix',
-        src: 'img/LOGO/LOGO.png',
+        src: 'img/LOGO/LOGO2.png',
       },
       items: [
         {
