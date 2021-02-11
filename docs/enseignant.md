@@ -15,8 +15,8 @@ Ensuite cliquez sur le bouton **AJOUTER UN ENSEIGNAT**
 ![img](../static/img/Enseignant/Enseignant2.PNG)
 
 Puis renseignez les informations de l'enseignant<br />
-**Les champs avec un Astérix sont des champs obligatoires**
-Apres avoir fini de renseigner toutes les information cliquez sur le bouton **Enregistrer**
+**Les champs avec un Astérix (*) sont des champs obligatoires** <br />
+Apres avoir fini de renseigner toutes les informations cliquez sur le bouton **Enregistrer**
 
 ![img](../static/img/Enseignant/Enseignant3.PNG)
 
@@ -33,7 +33,7 @@ Cliquez sur le bouton **Ajouter une classe**
 
 Sélectionnez un niveau, en cliquaant sur **Niveau**
 Ecririvez le nom de la classe dans l'onglet **Nom de la classe**
-Ajoutez un enseignant en cliquant sur l'onglet **Enseignat**, ***Cette action est facultative***
+Ajoutez un enseignant en cliquant sur l'onglet **Enseignat** , ***Cette action est facultative*** <br />
 Ensuite Cliquez sur **valider** <br />
 Et répétez l’action jusqu’à créer toutes les classes pour votre  école
 
@@ -41,11 +41,12 @@ Et répétez l’action jusqu’à créer toutes les classes pour votre  école
 
 ## Élève
 
-Il s’agit de la liste de tous les élèves de votre établissement.
+Il s’agit de la liste de tous les élèves de votre établissement. <br />
+sur le menu bleue à gauche de votre ecran cliquez sur **Elève**
 
 ![img](../static/img/Eleve/Eleve1.PNG)
 
-Vous pouvez filtrer par niveau et par classe. Et ainsi pour chaque élève avoir les informations.
+Vous pouvez filtrer la liste par niveau et par classe. Et ainsi pour chaque élève avoir ses informations.
 Vous pouvez accéder au dossier scolaire en cliquant sur **l’icône de l’œil** dans la partie **Action**.
 Vous pouvez transférer l’élève dans une autre classe en cliquant sur **la flèche** juste après **l’œil**.
 
@@ -78,7 +79,7 @@ Sur la première page, vous pouvez sélectionner un niveau dans le champ **séle
 
 Ce module comprend la partie **INSCRIPTION** et la partie **REINSCRIPTION**.
 
-<!-- ![img](../static/img/Inscription/inscription1.PNG) -->
+![img](../static/img/Inscription/Inscription1.PNG)
 
 La partie **INSCRIPTION** concerne les nouveaux élèves et la partie **REINSCRIPTION** pour les anciens élèves.
 
@@ -86,13 +87,17 @@ La partie **INSCRIPTION** concerne les nouveaux élèves et la partie **REINSCRI
 
 Pour inscrir un nouveau élève Cliquez sur **Nouvelle inscription** en haut à droite
 
-<!-- ![img](../static/img/Inscription/inscription2.PNG) -->
+![img](../static/img/Inscription/Inscription2.PNG)
 
 Renseigner les informations **seule les champs comportant un Astérix (*)** sont obligatoires. Les autres informations peuvent être renseignée plus tard.<br />
 Vous pouvez ajouter une photo <br />
 Une fois que vous avez fini de renseigner les informations cliquez sur le bouton **Enregistrer**.
 
 ### Réinscription
+
+![img](../static/img/Inscription/Reinscription1.PNG)
+
+**(Nous y reviendrons)**
 
 ## Compositions et notes
 
@@ -120,13 +125,21 @@ Pour accéder à l’état des notes cliquez sur **Etat des Notes**
 
 Sélectionner une classe en cliquant sur **Classe**
 Puis la composition pour laquelle vous voulez avoir les états en cliquant sur **Composition**. <br /> 
-Vous pouvez générer les états sous forme de documents PDF afin de les imprimer en cliquant sur l'cône **imprimer** en haut à droite
+Vous pouvez générer les états sous forme de documents PDF afin de les imprimer en cliquant sur **IMPRIMER** en haut à droite
 
 ## Caisse
 
 ![img](../static/img/Caisse/Caisse1.PNG)
 
+## Opération
 
+Cette partie ne concerne que les opérations d’entrée en caisse.
+
+![img](../static/img/Scolarite/Scolarite.PNG)
+
+## Communication
+
+![img](../static/img/Communication/Communication1.PNG)
 
 
 
