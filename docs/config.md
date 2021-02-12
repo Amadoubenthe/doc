@@ -5,7 +5,7 @@ title: Configuration
 
 ## Configuration
 
-Pour aller sur **Configuration**  cliquez sur **Configuration** sur le menu bleue aà gauche de votre ecran
+Pour aller sur **Configuration**  cliquez sur **Configuration** sur le menu bleue à gauche de votre ecran.
 
 ![img](../static/img/Administrateur/Configuration/Configuration.PNG)
 
@@ -19,13 +19,13 @@ Ensuite cliquez sur **Sélectionner un niveau** et sélectionnez le niveau **CP1
 
 ![img](../static/img/Configuration/Ajout2.PNG)
 
+![img](../static/img/Configuration/Ajout3.PNG)
 Dans le champ **Label** écriver l’intitulé du frais<br/>
 Dans le champ **Valeur** le montant<br/>
-Cliquez sur l’icône **+** pour l’ajouter, et répétez l’action jusqu’à constituer l’entièreté des frais annexes pour ce niveau
+Cliquez sur l’icône **+** pour l’ajouter, et répétez l’action jusqu’à constituer l’entièreté des frais annexes pour ce niveau <br />
+Apres avoir fini de renseigner les frais annexxe cliquez sur le bouton **ENREGISTRER** en haut à droite de votre ecran.
 
-![img](../static/img/Configuration/Ajout3.PNG)
-
-Refaire la même action pour les niveaux restants.frais.PNG
+Refaire la même action pour les autres niveaux.
 
 ### Frais de communication
 
@@ -36,36 +36,42 @@ Cliquez donc sur **Enregistrer**
 
 ### Droit d'inscription 
 
-Sélectionnez un niveau en Cliquant sur **Niveau** <br />
-Renseignez le **Montant** du droit d’inscription pour ce niveau et cliquez sur **Ajouter**
+Il s'agit de renseigner les droits d'inscription pour chaque niveau, aller sur **Droit d'inscription**
 
 ![img](../static/img/Configuration/droitInscriptipon.PNG)
 
+Sélectionnez un niveau en Cliquant sur **Niveau** <br />
+Renseignez le **Montant** du droit d’inscription pour ce niveau et cliquez sur **Ajouter**
 
 Répéter l’action pour les autres niveaux
 
 ### Frais de Scolarités
 
-Sélectionnez un niveau en Cliquant sur **Niveau** <br />
-Ecrire le montant de la scolarité puis cliquez sur **Ajouter**
+Il s'agit de renseigner les frais de scolarité pour chaque niveau, pour cela aller sur **Frais de scolarité**
 
 ![img](../static/img/Configuration/fraisScolarite.PNG)
 
+Sélectionnez un niveau en Cliquant sur **Niveau** <br />
+Ecrivez le montant de la scolarité sur **Montant** puis cliquez sur **Ajouter**
+
+
 ### Échéances de Scolarités
 
-Cliquez sur le bouton **Nouveau** en haut à droite
+Il s'agit de renseigner les Échéances de Scolarités, allez sur **Échéances de Scolarités**
 
 ![img](../static/img/Configuration/EScolarite1.PNG)
 
-Sélectionnez un niveau en cliquant sur **Niveau scolaire**
+Cliquez sur le bouton **Nouveau** en haut à droite
 
 ![img](../static/img/Configuration/EScolarite2.PNG)
+
+Sélectionnez un niveau en cliquant sur **Niveau scolaire**, ***CP1 par exemple***
+
+![img](../static/img/Configuration/EScolarite3.PNG)
 
 Renseignez un pourcentage du montant de scolaritén dans **Pourcentage à l'échéance** <br />
 Renseignez la date d’échéance du pourcentage défini dans **Date de l'échéance** <br />
 Cliquez sur le bouton **Enregistrer**
-
-![img](../static/img/Configuration/EScolarite3.PNG)
 
 Répéter l’action pour les autres niveaux
 

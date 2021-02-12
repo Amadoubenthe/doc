@@ -15,6 +15,7 @@ Puis cliquez sur le boutton **SE CONNECTER**, vous atterrissez sur une nouvelle 
 
 ---
 
+
 ### Superviseur
 
 Le superviseur est celui qui gère un ou plusieurs établissements scolaires et en a une vue Globale.
@@ -22,6 +23,11 @@ Le superviseur est celui qui gère un ou plusieurs établissements scolaires et 
 Pour dérouler le menu de navigation à gauche de votre écran, cliquez sur les trois traits à côté d'Akylix en haut à gauche de votre écran.
 
 ![img](../static/img/Deroulant.png)
+
+### Présentation du tableau de bord du superviseur
+
+
+---
 
 ### Création d’année scolaire
 
@@ -37,7 +43,7 @@ Pour définir les Profils et utilisateurs cliquez sur **Profils et utilisateurs*
 
 ![img](../static/img/ProfilUtilisateur1.png)
 
-Une fois ici cliquez sur **Utilisateurs**
+Ensuite cliquez sur **Utilisateurs**
 
 ![img](../static/img/ProfilUtilisateur2.png)
 

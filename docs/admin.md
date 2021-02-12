@@ -9,7 +9,7 @@ L'**Administrateur** est la personne qui va administrer l'établisement il à to
 
 ### Connexion Administrateur
 
-Utilisez les identifiants de l'**administrateur** pour vous connectez 
+Utilisez les identifiants (adresse e-mail et mot de passe) de l'**administrateur** pour vous connectez 
 
 le mot de passe par défaut est: 123456789
 
@@ -36,16 +36,16 @@ Dans la barre de menu à gauche, cliquez sur **Paramètres**, avant dernier menu
 
 ![img](../static/img/Administrateur/Ecole.png)
 
-La première tâche est la finalisation des informations sur l’école; lorsque cela est terminé, cliquez sur le bouton **Enregistrer**
+La première tâche est la finalisation des informations sur l’école;<br /> Lorsque cela est terminé, cliquez sur le bouton **Enregistrer**
 
 ### Les Niveaux
 
 ![img](../static/img/Administrateur/Niveau.png)
 
-Les niveaux du primaire par défaut sont déjà définis affichés :
-Pour modifier cliquer sur l’icône **crayon** en face du niveau
-Pour supprimer cliquer sur l’icône de la **corbeille**
-Pour ajouter des niveaux : écrivez le nom du niveau dans le champ prévu à cet effet puis cliquez sur **Ajouter**
+Les niveaux du primaire par défaut sont déjà définis affichés : <br />
+Pour modifier cliquez sur l’icône **crayon** en face du niveau<br />
+Pour supprimer cliquez sur l’icône de la **corbeille** <br />
+Pour ajouter des niveaux : écrivez le nom du niveau dans le champ **Nom du Niveau** puis cliquez sur **Ajouter**
 
 ### Matière
 
@@ -55,7 +55,7 @@ IL S’AGIT ICI DE CRÉER UNE LISTE DE TOUTES LES MATIERES ENSEIGNEES DANS VOTRE
 
 Ecrivez le nom de la matière dans le champ **libelle de la matière**<br/>
 Générez une couleur à attribuer à la matière en cliquant sur le champ **générer une couleur**<br />
-Cliquez ensuite sur **créer la matière** pour l’ajouter ; <br />
+Cliquez ensuite sur le bouton **CREER LA MATIERE** pour l’ajouter ; <br />
 Répétez l’action jusqu’à créez toutes les matières enseignées dans votre établissement.
 
 ### Matières et Niveaux
@@ -73,7 +73,7 @@ Cliquer sur **Ajouter** et répétez l’action jusqu’à lier des matières à
 ![img](../static/img/Administrateur/DossierScolaire.png)
 
 
-Cliquez sur **Nouveau** en haut à droite
+Cliquez sur le bouton **NOUVEAU** en haut à droite
 
 ![img](../static/img/Administrateur/Doss1.PNG)
 
@@ -83,22 +83,26 @@ Ensuite cliquez sur **Selectionner un Niveau**
 
 ![img](../static/img/Administrateur/Doss21.PNG)
 
-Ensuite ecrivez l’intitulé du dossier dans le champ **Libelle du Document** <br/>
-puis cliquez sur le bouton **+**
+
 
 ![img](../static/img/Administrateur/Doss3.PNG)
+
+Ensuite ecrivez l’intitulé du dossier dans le champ **Libelle du Document** <br/>
+puis cliquez sur le bouton **+** <br />
+Apres avoir fini de renseigner tous les dossiers cliquez sur le bouton **ENREGISTRER**<br />
+Et faites ceci pour tout les Niveau.
 
 ### Horaire de Cours
 
 **Il s’agit de créer des horaires de cours pour l’emploi du temps.**
-
-![img](../static/img/Administrateur/Horaire.png)
-
 :::note
 
 UTILISER LA PLUS PETITE UNITE HORAIRE POUR FACILITER LA CREATION
 
 :::
+
+![img](../static/img/Administrateur/Horaire.png)
+
 
 Renseignez une heure de début dans la zone **Heure de début** et une heure de fin dans la zone **Heure de fin**<br/>
 **Ex : 7h 30 - 8h 15**<br/>
@@ -116,6 +120,9 @@ Le nom d’expéditeur doit être constitué de 11 caractères donc vous pouvez 
 
 ![img](../static/img/Administrateur/NomExpediteur.png)
 
+Dans le champs **Nom d'expediteur**  renseignez le nom d'xpediteur **Ex : EPP ORPHEE** <br />
+Ensuite cliquez sur le bouton **Ajouter**
+
 ### Modèle de message
 
 Il s’agit de préenregistrer des modèles de messages<br/>
@@ -129,9 +136,11 @@ Cliquez sur **Ajouter**
 
 ### Notifications SMS
 
+Il s’agit de choisir un nom d’expéditeur pour l'envoie des SMS
+
 ![img](../static/img/Administrateur/NotifSMS.png)
 
-Il s’agit de choisir un nom d’expéditeur dans l'onglet **Choisissez un nom d’expéditeur** pour les envois des différentes notifications d’informations aux parents à savoir et cliquez sur le bouton **Enregistrer**
+Pour ce faire cliquez dans l'onglet **Choisissez un nom d’expéditeur** pour les envois des différentes notifications d’informations aux parents à savoir et cliquez sur le bouton **Enregistrer**
 
 
 
