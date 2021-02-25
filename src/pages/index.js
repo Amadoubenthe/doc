@@ -71,11 +71,11 @@ function Home() {
           <div className={styles.buttons}>
             <Link
               className={clsx(
-                'button button--info',
+                'button button--info btn-width',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Commencer
             </Link>
           </div>
 

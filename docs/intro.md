@@ -36,6 +36,16 @@ Ou saisissez l'url suivante :
 
 > https://app.akylix.com/
 
+### version test
+ 
+Pour ceux qui veulent faire des tests veuillez utiliser le lien suivant:
+
+Pour accéder à Akylix cliquez sur [Akylix Dev](https://dev.akylix.com/).
+
+Ou saisissez l'url suivante :
+
+> https://dev.akylix.com/
+
 ### Page d'Accueil
 
 
