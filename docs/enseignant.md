@@ -131,9 +131,17 @@ Vous pouvez générer les états sous forme de documents PDF afin de les imprime
 
 ![img](../static/img/Caisse/Caisse1.PNG)
 
-## Opération
+### Opération
 
 Cette partie ne concerne que les opérations d’entrée en caisse.
+
+![img](../static/img/Caisse/CaisseOperation.PNG)
+
+### Etat de la caisse
+
+![img](../static/img/Caisse/CaisseEtat.PNG)
+
+## Scolarité
 
 ![img](../static/img/Scolarite/Scolarite.PNG)
 

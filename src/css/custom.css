@@ -18,6 +18,7 @@
 
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
+
   /* background-color: rgb(16, 73, 230); */
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
@@ -36,3 +37,4 @@
   text-align: center;
   background-color: blue;
 }
+
