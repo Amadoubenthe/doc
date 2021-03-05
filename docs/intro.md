@@ -36,7 +36,7 @@ Ou saisissez l'url suivante :
 
 > https://app.akylix.com/
 
-### version test
+### Version test
  
 Pour ceux qui veulent faire des tests veuillez utiliser le lien suivant:
 
@@ -54,7 +54,7 @@ Ou saisissez l'url suivante :
 
 ---
 
-## Soummettre son établissement
+## Soumettre son établissement
 
 Une fois sur Akylix vous devez soumettre votre établissement.
 
@@ -64,18 +64,30 @@ La soumission d'établissement se fait une seule fois par établissement
 
 :::
 
+Pour soumettre votre établissement cliquez sur **SOUMETTRE MON ETABLISSEMENT**.
+
 ![img](../static/img/Connexion.png)
 
-Pour soumettre votre établissement cliquez sur **SOUMETTRE MON ETABLISSEMENT** et renseignez toutes les informations. <br />
-Cliquez dans la case **J'accepte les conditions générales d'utilisation**<br />
-Ensuite cliquez sur le bouton **SOUMETTRE MON ETABLISSEMENT**
+Une fois sur la page de soumission d'établissement vous devez renseignez les informations de votre etablissement.
+
+**Nom d'établissement** : il s'agit de renseigner le nom de votre établissement<br />
+**Code école**: (facultatif) il s'agit de renseigner le code de votre ecole s'il en existe<br />
+**Adresse**: Il s'agit de renseigner la ville ou votre école se situe <br />
+**Adresse e-mail**: Il s'agit ici de renseigner l'adresse e-mail de votre établissement <br />
+**Numéro de téléphone**: Il s'agit ici de renseigner le numéro de téléphone de votre établissement <br />
+**Nom du superviseur**: Il s'agit ici de renseigner le nom du superviseur de l'établissement. (Au privée le superviseur peut être le Fondateur ou toute personne qui est chargée de superviser l'établissement. Au public le superviseur sera le Directeur)<br />
+**Adresse e-mail du superviseur**: Ici vous allez renseigner l'addresse e-mail du superviseur. (l'adresse e-mail utiliser ici sera l'identifiant du superviseur)<br />
+**J'accepte les conditions générales d'utilisation**: Vous devez cocher cette case pour accepter les conditions générales d'utilisation.
 
 ![img](../static/img/Soumettre.png)
 
+Apres avoir finis de renseigner toutes les information cochez la case **J'accepte les conditions générales d'utilisation**<br />
+Ensuite cliquez sur le bouton **SOUMETTRE MON ETABLISSEMENT**
+
 :::note
 
-Tous les champs comportant un Astérix (*) sont obligatoires<br />
-Les adresses e-mails s’écrivent en minuscule<br />
+Tous les champs comportant un astérix (*) sont obligatoires<br />
+Les adresses e-mails s’écrivent en minuscule et ne comportent pas d'espace<br />
 Précédez de 225 les contacts téléphoniques et n’y ajoutez aucun espace
 
 :::
@@ -84,8 +96,7 @@ Précédez de 225 les contacts téléphoniques et n’y ajoutez aucun espace
 
 :::note
 
-Vous recevrez un message vous notifiant la prise en compte de votre enregistrement et son traitement
-Vérifiez votre messagerie mail pour y retrouvez les identifiants de connexion.
+La soumission de votre établissement doit être traiter et valider avant de pouvoir vous connectez sur l'application.
 
 :::
 

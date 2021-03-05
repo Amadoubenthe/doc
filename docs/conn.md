@@ -5,27 +5,35 @@ title: Connexion à Akylix
 
 ### Connexion
 
-Apres soumission de votre établissement vous vous retrouvez sur la même page de départ,ou allez sur la page de  [connecxion](https://app.akylix.com/login), puis renseignez l’adresse e-mail utilisé pour le **superviseur** lors de la soumission de votre établissement et le mot de passe par défaut est : 123456789
+Apres soumission de votre établissement vous vous retrouvez sur la même page de départ,ou allez sur la page de  [connexion](https://app.akylix.com/login), puis renseignez l’adresse e-mail utilisé pour le **superviseur** lors de la soumission de votre établissement. Le mot de passe par défaut est : 123456789
 
 ![img](../static/img/connexionSuperviseur.png)
 
-Puis cliquez sur le boutton **SE CONNECTER**, vous atterrissez sur une nouvelle page qui est le Dashboard (tableau de bord) du superviseur
+Puis cliquez sur le boutton **SE CONNECTER**, vous serez rediriger sur une nouvelle page qui est le tableau de bord (Dashboard) du superviseur
 
-![img](../static/img/Supetrviseur.PNG)
+### Présentation du tableau de bord
+
+### Bare de navigation
+
+![img](../static/img/Presentation/tBarNav.PNG)
+
+### Bare de navigation
+
+![img](../static/img/Presentation/MenuNavigation.PNG)
+
+### Zone de travail
+
+![img](../static/img/Presentation/ZoneTravailPNG.PNG)
 
 ---
-
 
 ### Superviseur
 
 Le superviseur est celui qui gère un ou plusieurs établissements scolaires et en a une vue Globale.
 
-Pour dérouler le menu de navigation à gauche de votre écran, cliquez sur les trois traits à côté d'Akylix en haut à gauche de votre écran.
+Pour dérouler le menu de navigation à gauche de votre écran, cliquez sur les trois traits dans la bare de navigation à côté d'Akylix en haut à gauche de votre écran.
 
 ![img](../static/img/Deroulant.png)
-
-### Présentation du tableau de bord du superviseur
-
 
 ---
 
