@@ -41,7 +41,11 @@ Pour dérouler le menu de navigation à gauche de votre écran, cliquez sur les 
 
 Pour définir les années scolaires cliquez sur **Mes années scolaires**
 
-![img](../static/img/AnneeScolaire.PNG)
+![img](../static/img/AnneeScolaires2.jpg)
+
+<!-- ![img](../static/img/AnneeScolaire.PNG) -->
+
+<!-- ![img](../static/img/AnneeScolaire2.jpg) -->
 
 Cliquez sur la zone **Année scolaires** saisissez l'année sous le format suivant **2020-2021** puis cliquez sur le bouton **Ajouter**
 
