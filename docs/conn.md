@@ -13,15 +13,25 @@ Puis cliquez sur le boutton **SE CONNECTER**, vous serez rediriger sur une nouve
 
 ### Présentation du tableau de bord
 
-### Bare de navigation
+### Barre de navigation
+
+La barre de navigation comprend trois (3) partie :
+
+- Un bouton qui va vous permettre de dérouler le menu de navigation, elle se situe a gauche de la barre de navigation
+- Année scolaire pour sélectionner une année (l’année en cours sera l’année sélectionner par défaut)
+- Un bouton qui va vous permettre de voir les sections **Mon profil**, **Mon compte** et **se déconnecter**. Ce bouton se trouve à droite de la barre de navigation.
 
 ![img](../static/img/Presentation/tBarNav.PNG)
 
-### Bare de navigation
+### Menu de navigation
+
+Le menu de navigation, qui est en bleue et se trouve à gauche de votre écran, il va vous permettre de naviguer entre les différents modules (sections) qu’offre Akylix
 
 ![img](../static/img/Presentation/MenuNavigation.PNG)
 
 ### Zone de travail
+
+La zone de travail est la partie située au milieu de votre écran, elle va vous permettre de voir les informations sur un module sélectionné, et d’effectuer les actions sur ce module tel qu’afficher, ajouter, modifier, supprimer...
 
 ![img](../static/img/Presentation/ZoneTravailPNG.PNG)
 
@@ -39,21 +49,18 @@ Pour dérouler le menu de navigation à gauche de votre écran, cliquez sur les 
 
 ### Création d’année scolaire
 
-Pour définir les années scolaires cliquez sur **Mes années scolaires**
+Pour définir les années scolaires cliquez sur **Mes années scolaires** dans le menu de navigation
 
 ![img](../static/img/AnneeScolaires2.jpg)
 
-<!-- ![img](../static/img/AnneeScolaire.PNG) -->
-
-<!-- ![img](../static/img/AnneeScolaire2.jpg) -->
-
-Cliquez sur la zone **Année scolaires** saisissez l'année sous le format suivant **2020-2021** puis cliquez sur le bouton **Ajouter**
+Cliquez sur la zone **Année scolaires** dans la zone de travail et saisissez l'année sous le format suivant **2020-2021** puis cliquez sur le bouton **Ajouter**
 
 ### Profils et utilisateurs
 
-Pour définir les Profils et utilisateurs cliquez sur **Profils et utilisateurs** puis sélectionnez votre école grâce à l'onglet **Sélectionner une école**.
+Pour définir les Profils et utilisateurs cliquez sur **Profils et utilisateurs** dans le menu de navigation puis sélectionnez votre école grâce à l'onglet **Sélectionner une école** dans la zone de travail.
 
-![img](../static/img/ProfilUtilisateur1.png)
+<!-- ![img](../static/img/ProfilUtilisateur1.png) -->
+![img](../static/img/ProfilUtilisateur12.jpg)
 
 Ensuite cliquez sur **Utilisateurs**
 

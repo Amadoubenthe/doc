@@ -139,11 +139,21 @@ Cette partie ne concerne que les opérations d’entrée en caisse.
 
 ### Etat de la caisse
 
+Il s’agit ici de vérifier les actions effectuées à la caisse et de clôturer la journée lorsqu’on a fini de travailler.
+Vous pouvez également effectuer un suivi de caisse en sélectionnant le caissier pour lequel vous voulez effectuer le suivi
+
 ![img](../static/img/Caisse/CaisseEtat.PNG)
+
 
 ## Scolarité
 
 ![img](../static/img/Scolarite/Scolarite.PNG)
+
+### Etat de la scolarité
+
+C’est la partie où vous pouvez voir le bilan des versements de scolarité à travers des statistiques générales
+
+![img](../static/img/Scolarite/etatScolarite.PNG)
 
 ## Communication
 
