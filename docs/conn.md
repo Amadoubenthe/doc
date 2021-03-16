@@ -15,10 +15,10 @@ Puis cliquez sur le boutton **SE CONNECTER**, vous serez rediriger sur une nouve
 
 ### Barre de navigation
 
-La barre de navigation comprend trois (3) partie :
+La barre de navigation comprend trois (3) parties :
 
-- Un bouton qui va vous permettre de dérouler le menu de navigation, elle se situe a gauche de la barre de navigation
-- Année scolaire pour sélectionner une année (l’année en cours sera l’année sélectionner par défaut)
+- Un bouton qui va vous permettre de dérouler le menu de navigation, elle se situe à gauche de la barre de navigation
+- Un champs Année scolaire pour sélectionner une année (l’année en cours sera l’année sélectionner par défaut)
 - Un bouton qui va vous permettre de voir les sections **Mon profil**, **Mon compte** et **se déconnecter**. Ce bouton se trouve à droite de la barre de navigation.
 
 ![img](../static/img/Presentation/tBarNav.PNG)
