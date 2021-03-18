@@ -5,13 +5,14 @@ title: Configuration
 
 ## Configuration
 
-Pour aller sur **Configuration**  cliquez sur **Configuration** sur le menu bleue à gauche de votre ecran.
+Pour aller sur **Configuration**  cliquez sur **Configuration** sur le menu de navigation en bleue à gauche de votre ecran.
 
 ![img](../static/img/Administrateur/Configuration/Configuration.PNG)
 
 ### Frais annexes
 
-Cliquez sur **AJOUTER DES FRAIS D'ANNEXES**
+Il s'agit ici de renseigner tous les frais d'annexe<br/>
+Pour ce faire, cliquez sur **AJOUTER DES FRAIS D'ANNEXES**
 
 ![img](../static/img/Configuration/Ajout.PNG)
 
@@ -36,7 +37,7 @@ Cliquez donc sur **Enregistrer**
 
 ### Droit d'inscription 
 
-Il s'agit de renseigner les droits d'inscription pour chaque niveau, aller sur **Droit d'inscription**
+Il s'agit de renseigner les droits d'inscription pour chaque niveau, aller sur **Droit d'inscription** dans la zone de travail
 
 ![img](../static/img/Configuration/droitInscriptipon.PNG)
 
@@ -47,7 +48,7 @@ Répéter l’action pour les autres niveaux
 
 ### Frais de Scolarités
 
-Il s'agit de renseigner les frais de scolarité pour chaque niveau, pour cela aller sur **Frais de scolarité**
+Il s'agit de renseigner les frais de scolarité pour chaque niveau, pour cela aller sur **Frais de scolarité** dans la zone de travail
 
 ![img](../static/img/Configuration/fraisScolarite.PNG)
 
@@ -57,7 +58,7 @@ Ecrivez le montant de la scolarité sur **Montant** puis cliquez sur **Ajouter**
 
 ### Échéances de Scolarités
 
-Il s'agit de renseigner les Échéances de Scolarités, allez sur **Échéances de Scolarités**
+Il s'agit de renseigner les Échéances de Scolarités, allez sur **Échéances de Scolarités** dans la zone de travail
 
 ![img](../static/img/Configuration/EScolarite1.PNG)
 

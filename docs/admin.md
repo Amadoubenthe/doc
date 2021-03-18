@@ -19,6 +19,8 @@ le mot de passe par défaut est: 123456789
 
 ![img](../static/img/Administrateur/tableauBordAdmin.png)
 
+Le tableau de board de l'administarteur comprand 3 parties princiles qui sont la **Barre de navigation** qui se situe en haut de votre ecran, le **Menu de navigation** qui est en blue et se situe à gauche de votre ecran et la **Zone de travail** qui se situe au milieu de votre ecran.
+
 
 ## Parametrages
 
@@ -28,7 +30,7 @@ La première chose à faire est de paramétrer l’application (Les informations
 
 :::
 
-Dans la barre de menu à gauche, cliquez sur **Paramètres**, avant dernier menu
+Dans le menu de navigation à gauche, cliquez sur **Paramètres**, l'avant dernier menu
 
 ![img](../static/img/Param1.PNG)
 
@@ -36,20 +38,23 @@ Dans la barre de menu à gauche, cliquez sur **Paramètres**, avant dernier menu
 
 ![img](../static/img/Administrateur/Ecole.png)
 
-La première tâche est la finalisation des informations sur l’école;<br /> Lorsque cela est terminé, cliquez sur le bouton **Enregistrer**
+La première tâche est la finalisation des informations sur l’école.<br /> Lorsque cela est terminé, cliquez sur le bouton **Enregistrer**
 
 ### Les Niveaux
+
+Pour aller sur l'onglet niveau cliquez sur **Niveau** dans la zone de travail
 
 ![img](../static/img/Administrateur/Niveau.png)
 
 Les niveaux du primaire par défaut sont déjà définis affichés : <br />
 Pour modifier cliquez sur l’icône **crayon** en face du niveau<br />
 Pour supprimer cliquez sur l’icône de la **corbeille** <br />
-Pour ajouter des niveaux : écrivez le nom du niveau dans le champ **Nom du Niveau** puis cliquez sur **Ajouter**
+Pour ajouter des niveaux : écrivez le nom du niveau dans le champ **Nom du Niveau** dans la zone de traval puis cliquez sur **Ajouter**
 
 ### Matière
 
-IL S’AGIT ICI DE CRÉER UNE LISTE DE TOUTES LES MATIERES ENSEIGNEES DANS VOTRE ECOLE.
+IL S’AGIT ICI DE CRÉER UNE LISTE DE TOUTES LES MATIERES ENSEIGNEES DANS VOTRE ECOLE.<br/>
+Pour aller sur l'onglet matière cliquez sur **Matière** dans la zone de travail
 
 ![img](../static/img/Matière.PNG)
 
@@ -60,6 +65,8 @@ Répétez l’action jusqu’à créez toutes les matières enseignées dans vot
 
 ### Matières et Niveaux
 
+Pour aller sur l'onglet matières et niveaux cliquez sur **Matières et Niveaux** dans la zone de travail
+
 ![img](../static/img/Administrateur/MatiereNiveau.png)
 
 IL S’AGIT ICI DE LIER LES MATIERES CREEES AU PREALABLE AU IVEAUX CREES EGALEMENT
@@ -69,6 +76,8 @@ Cliquez dans le champ **Matière** sélectionnez une matière, ou cliquez sur to
 Cliquer sur **Ajouter** et répétez l’action jusqu’à lier des matières à tous les niveaux que vous avez créé.
 
 ### Dossiers Scolaire
+
+Pour aller sur l'onglet Dossiers Scolaire cliquez sur **Dossiers Scolaire** dans la zone de travail
 
 ![img](../static/img/Administrateur/DossierScolaire.png)
 
@@ -82,8 +91,6 @@ Ensuite cliquez sur **Selectionner un Niveau**
 ![img](../static/img/Administrateur/Doss2.PNG)
 
 ![img](../static/img/Administrateur/Doss21.PNG)
-
-
 
 ![img](../static/img/Administrateur/Doss3.PNG)
 

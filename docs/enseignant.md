@@ -6,16 +6,16 @@ title: Enseignants
 ## Enseignants
 
 Cette partie consiste à créer les profils de tous les enseignants de votre établissement <br />
-Pour ce faire cliquez sur **Enseignants** sur le menu bleu à gauche de votre ecran
+Pour ce faire cliquez sur **Enseignants** dans le menu de navigation bleu à gauche de votre ecran
 
 ![img](../static/img/Enseignant/Enseignant1.PNG)
 
-Ensuite cliquez sur le bouton **AJOUTER UN ENSEIGNAT**
+Ensuite cliquez sur le bouton **AJOUTER UN ENSEIGNAT** dans la zone de travail
 
 ![img](../static/img/Enseignant/Enseignant2.PNG)
 
 Puis renseignez les informations de l'enseignant<br />
-**Les champs avec un Astérix (*) sont des champs obligatoires** <br />
+**Les champs avec un astérix (*) sont des tous obligatoires** <br />
 Apres avoir fini de renseigner toutes les informations cliquez sur le bouton **Enregistrer**
 
 ![img](../static/img/Enseignant/Enseignant3.PNG)
@@ -23,11 +23,11 @@ Apres avoir fini de renseigner toutes les informations cliquez sur le bouton **E
 ## Classes
 
 Il s’agit ici de créer des classes et de les attribuer un enseignant qu’on a préalablement crée dans la partie ***Enseignant***. <br />
-Pour cela cliquez sur **Classes** dans le menu bleu à gauche
+Pour cela cliquez sur **Classes** dans le menu de navigation bleu à gauche
 
 ![img](../static/img/Classe/Classe1.PNG)
 
-Cliquez sur le bouton **Ajouter une classe**
+Cliquez sur le bouton **Ajouter une classe** dans la zone de travail
 
 ![img](../static/img/Classe/Classe2.PNG)
 
@@ -42,21 +42,23 @@ Et répétez l’action jusqu’à créer toutes les classes pour votre  école
 ## Élève
 
 Il s’agit de la liste de tous les élèves de votre établissement. <br />
-sur le menu bleue à gauche de votre ecran cliquez sur **Elève**
+Sur le menu de navigation bleue à gauche de votre ecran cliquez sur **Elève**
 
 ![img](../static/img/Eleve/Eleve1.PNG)
 
-Vous pouvez filtrer la liste par niveau et par classe. Et ainsi pour chaque élève avoir ses informations.
+Vous pouvez filtrer la liste par niveau et par classe.<br />
+Et ainsi pour chaque élève avoir ses informations.
 Vous pouvez accéder au dossier scolaire en cliquant sur **l’icône de l’œil** dans la partie **Action**.
 Vous pouvez transférer l’élève dans une autre classe en cliquant sur **la flèche** juste après **l’œil**.
 
 ## Emploi du temps
 
-Dans cette partie, vous devez créer les emplois du temps pour chaque partie
+Dans cette partie, vous devez créer les emplois du temps pour chaque partie<br/>
+Pour cela cliquez sur **Emploi du temps** dans le menu de navigation en bleu
 
 ![img](../static/img/EmploiDuTemps/emploiTemps.PNG)
 
-Pour définir l'emploi du temps cliquez sur le bouton **Configurer** en haut à droite
+Pour définir l'emploi du temps cliquez sur le bouton **Configurer** dans la zone de travail en haut à droite
 
 ![img](../static/img/EmploiDuTemps/emploiTemps2.PNG)
 
@@ -77,9 +79,10 @@ Sur la première page, vous pouvez sélectionner un niveau dans le champ **séle
 
 ## Inscription
 
-Ce module comprend la partie **INSCRIPTION** et la partie **REINSCRIPTION**.
+Ce module comprend la partie **INSCRIPTION** et la partie **REINSCRIPTION**.<br />
+Pour inscrire les élèves allez sur **Inscription** dans le menu de navigation en bleu à gauche de votre ecran.
 
-![img](../static/img/Inscription/Inscription1.PNG)
+![img](../static/img/Inscription/Inscription0.PNG)
 
 La partie **INSCRIPTION** concerne les nouveaux élèves et la partie **REINSCRIPTION** pour les anciens élèves.
 
@@ -89,9 +92,17 @@ Pour inscrir un nouveau élève Cliquez sur **Nouvelle inscription** en haut à 
 
 ![img](../static/img/Inscription/Inscription2.PNG)
 
+![img](../static/img/Inscription/NouvelleInscription.PNG)
+
 Renseigner les informations **seule les champs comportant un Astérix (*)** sont obligatoires. Les autres informations peuvent être renseignée plus tard.<br />
 Vous pouvez ajouter une photo <br />
 Une fois que vous avez fini de renseigner les informations cliquez sur le bouton **Enregistrer**.
+
+:::note
+
+le bouton **Désactiver les champs obligatoires** permet de désactiver les champs obligatoires lors de l'inscription d'un élève, mais il est recommandé de renseigner autant d'information possible.
+
+:::
 
 ### Réinscription
 
@@ -101,15 +112,17 @@ Une fois que vous avez fini de renseigner les informations cliquez sur le bouton
 
 ## Compositions et notes
 
+Pour aller sur Compositions et notes, cliquez sur **Compositions et notes** dans le menu de navigation en bleu à gauche de votre ecran.
+
 ![img](../static/img/ComposNote/ComposNote.PNG)
 
 ### Compositions
 
-Ici il s'agit de définir les compositions
+Ici il s'agit de définir les compositions<br />
 
 ![img](../static/img/ComposNote/Compos1.PNG)
 
-Sélectionner un niveau en cliquant dans l'onglet **Niveau**
+Sélectionnez un niveau en cliquant dans l'onglet **Niveau** dans la zone de travail
 Renseignez le nom de la composition dans **Nom de la composition** puis la date de tenue dans **Date** ensuite
 Cliquez sur le bouton **Ajouter**
 
@@ -123,11 +136,13 @@ Pour accéder à l’état des notes cliquez sur **Etat des Notes**
 
 ![img](../static/img/ComposNote/Notes.PNG)
 
-Sélectionner une classe en cliquant sur **Classe**
+Sélectionner une classe en cliquant sur **Classe** dans la zone de travail,
 Puis la composition pour laquelle vous voulez avoir les états en cliquant sur **Composition**. <br /> 
 Vous pouvez générer les états sous forme de documents PDF afin de les imprimer en cliquant sur **IMPRIMER** en haut à droite
 
 ## Caisse
+
+Pour allez sur la caisse, cliquez sur le module **Caisse** dans le menu de navigation en bleu à gauche de votre ecran
 
 ![img](../static/img/Caisse/Caisse1.PNG)
 
@@ -144,8 +159,12 @@ Vous pouvez également effectuer un suivi de caisse en sélectionnant le caissie
 
 ![img](../static/img/Caisse/CaisseEtat.PNG)
 
+### Cloturer la caisse
+
 
 ## Scolarité
+
+Il s'agit ici de voir le Bilan général de votre établissement
 
 ![img](../static/img/Scolarite/Scolarite.PNG)
 
