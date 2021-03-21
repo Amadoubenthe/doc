@@ -11,9 +11,9 @@ Apres soumission de votre établissement vous serez rediriger sur la page de con
 
 Puis cliquez sur le boutton **SE CONNECTER**, vous serez rediriger sur une nouvelle page qui est le tableau de bord (Dashboard) du superviseur
 
-## Présentation du tableau de bord
+## Présentation du tableau de bord du superviseur
 
-Le tableau de bord est composé de trois parties principales:*
+Le tableau de bord est composé de trois parties principales:
 - La Barre de navigation
 - Le Menu de navigation
 - La Zone de travail
@@ -26,19 +26,19 @@ La barre de navigation se situe en haut de votre ecran elle contient :
 - Un champs Année scolaire pour sélectionner une année (l’année en cours sera l’année sélectionner par défaut)
 - Un bouton qui va vous permettre de voir les sections **Mon profil**, **Mon compte** et **se déconnecter**. Ce bouton se trouve à droite de la barre de navigation.
 
-![img](../static/img/Presentation/tBarNav.PNG)
+![img](../static/img/BarreNav.jpg)
 
 ### Menu de navigation
 
 Le menu de navigation, qui est en bleue et se trouve à gauche de votre écran, il va vous permettre de naviguer entre les différents modules (sections) qu’offre Akylix
 
-![img](../static/img/Presentation/MenuNavigation.PNG)
+![img](../static/img/MenuNav.jpg)
 
 ### Zone de travail
 
 La zone de travail est la partie située au milieu de votre écran, elle va vous permettre de voir les informations sur un module sélectionné, et d’effectuer les actions sur ce module tel qu’afficher, ajouter, modifier, supprimer...
 
-![img](../static/img/Presentation/ZoneTravailPNG.PNG)
+![img](../static/img/ZoneTravail.jpg)
 
 ---
 

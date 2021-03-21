@@ -19,6 +19,50 @@ le mot de passe par défaut est: 123456789
 
 ![img](../static/img/Administrateur/tableauBordAdmin.png)
 
+## Présentation du tableau de bord de l'administarteur
+
+Le tableau de bord est composé de trois parties principales:
+- La Barre de navigation
+- Le Menu de navigation
+- La Zone de travail
+
+### Barre de navigation
+
+La barre de navigation se situe en haut de votre ecran elle contient :
+
+- Un bouton qui va vous permettre de dérouler le menu de navigation, elle se situe à gauche de la barre de navigation
+- Un champs Année scolaire pour sélectionner une année (l’année en cours sera l’année sélectionner par défaut)
+- Un bouton qui va vous permettre de voir les sections **Mon profil**, **Mon compte** et **se déconnecter**. Ce bouton se trouve à droite de la barre de navigation.
+
+![img](../static/img/Presentation/tBarNav.PNG)
+
+### Menu de navigation
+
+Le menu de navigation, qui est en bleue et se trouve à gauche de votre écran, il va vous permettre de naviguer entre les différents modules (sections) qu’offre Akylix
+
+- Tableau de bord
+- Classes
+- Eleves
+- Emploi du temps
+- Inscription
+- Compos et notes
+- Caisse
+- Scolarite
+- Communication
+- Configuration
+- Parametres
+- Aide
+
+![img](../static/img/Presentation/MenuNavigation.PNG)
+
+### Zone de travail
+
+La zone de travail est la partie située au milieu de votre écran, elle va vous permettre de voir les informations sur un module sélectionné, et d’effectuer les actions sur ce module tel qu’afficher, ajouter, modifier, supprimer...
+
+![img](../static/img/Presentation/ZoneTravail.PNG)
+
+---
+
 Le tableau de board de l'administarteur comprand 3 parties princiles qui sont la **Barre de navigation** qui se situe en haut de votre ecran, le **Menu de navigation** qui est en blue et se situe à gauche de votre ecran et la **Zone de travail** qui se situe au milieu de votre ecran.
 
 
@@ -69,11 +113,11 @@ Pour aller sur l'onglet matières et niveaux cliquez sur **Matières et Niveaux*
 
 ![img](../static/img/Administrateur/MatiereNiveau.png)
 
-IL S’AGIT ICI DE LIER LES MATIERES CREEES AU PREALABLE AU IVEAUX CREES EGALEMENT
+Il s’agit ici de lier les matières créer au préalable aux niveaux également créer, c’est une liaison entre la matière enseignée et le niveau.
 
-Cliquez dans le champ **niveau** et sélectionnez un niveau *CP1 par Example*<br/>
+Toujoure dans la zone de travail cliquez dans le champ **Niveau** et sélectionnez un niveau *CP1 par Example*<br/>
 Cliquez dans le champ **Matière** sélectionnez une matière, ou cliquez sur toutes les matières que vous voulez lier au niveau que vous avez choisi<br/>
-Cliquer sur **Ajouter** et répétez l’action jusqu’à lier des matières à tous les niveaux que vous avez créé.
+Cliquer sur **Ajouter**<br /> Répétez l’action jusqu’à lier des matières à tous les niveaux que vous avez créé.
 
 ### Dossiers Scolaire
 
@@ -82,7 +126,7 @@ Pour aller sur l'onglet Dossiers Scolaire cliquez sur **Dossiers Scolaire** dans
 ![img](../static/img/Administrateur/DossierScolaire.png)
 
 
-Cliquez sur le bouton **NOUVEAU** en haut à droite
+Toujours dans la zone de travail cliquez sur le bouton **NOUVEAU** en haut à droite
 
 ![img](../static/img/Administrateur/Doss1.PNG)
 
