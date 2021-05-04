@@ -9,7 +9,7 @@ Apres soumission de votre établissement vous serez rediriger sur la page de con
 
 ![img](../static/img/connexionSuperviseur.png)
 
-Puis cliquez sur le boutton **SE CONNECTER**, vous serez rediriger sur une nouvelle page qui est le tableau de bord (Dashboard) du superviseur
+Puis cliquez sur le bouton **SE CONNECTER**, vous serez rediriger sur une nouvelle page qui est le tableau de bord (Dashboard) du superviseur
 
 ## Présentation du tableau de bord du superviseur
 
@@ -72,7 +72,7 @@ Ensuite cliquez sur **Utilisateurs**
 
 ![img](../static/img/ProfilUtilisateur3.png)
 
-Une fois ici vous allez renseigner le **Nom**, l'**Adresse e-mail** et pour le profil sélectionnez **Administrateur** ensuite cliquez sur le bouton **Ajouter**
+Une fois ici vous allez renseigner le **Nom**, l'**Adresse e-mail**, et pour le profil sélectionnez **Administrateur** ensuite cliquez sur le bouton **Ajouter**
 
 :::note
 
@@ -81,7 +81,7 @@ L'adresse e-mail fournit ici sera l'identifiant de l'Administrateur, veuillez ut
 :::
 
 ## Déconnection
-Pour vous déconnectez cliquez dans les initiales en haut à droite dans le cercle bleu et cliquez sur **Se déconnecter**
+Pour vous déconnectez cliquez dans les initiales en haut à droite dans la barre de navigation le cercle bleue et cliquez sur **Se déconnecter**
 
 ![img](../static/img/Deconnexion1.png)
 

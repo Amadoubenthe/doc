@@ -3,7 +3,8 @@ module.exports = {
     Docusaurus: [
       'intro', 
       'conn', 
-      'admin', 
+      'admin',
+      'param',
       'config', 
       'enseignant', 
       'classe', 

@@ -64,7 +64,7 @@ La soumission d'établissement se fait une seule fois par établissement
 
 :::
 
-Pour soumettre votre établissement cliquez sur **SOUMETTRE MON ETABLISSEMENT**.
+Pour soumettre votre établissement cliquez sur le bouton **SOUMETTRE MON ETABLISSEMENT**.
 
 ![img](../static/img/Connexion.png)
 
