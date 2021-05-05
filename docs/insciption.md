@@ -5,8 +5,8 @@ title: Inscription & Réinscription
 
 ## Inscription
 
-Ce module comprend la partie **INSCRIPTION** et la partie **REINSCRIPTION**.<br />
-Pour inscrire les élèves allez sur **Inscription** dans le menu de navigation en bleu à gauche de votre ecran.
+Ce module comprend la partie **INSCRIPTION** et **REINSCRIPTION**.<br />
+Pour inscrire les élèves allez sur **Inscription** dans le menu de navigation en bleue à gauche de votre ecran.
 
 ![img](../static/img/Inscription/Inscription0.PNG)
 
@@ -14,7 +14,7 @@ La partie **INSCRIPTION** concerne les nouveaux élèves et la partie **REINSCRI
 
 ### Inscription
 
-Pour inscrir un nouveau élève Cliquez sur **Nouvelle inscription** en haut à droite
+Pour inscrir un nouvel élève Cliquez sur **Nouvelle inscription** en haut à droite
 
 ![img](../static/img/Inscription/Inscription2.PNG)
 

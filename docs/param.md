@@ -116,8 +116,10 @@ Cliquez sur **Ajouter** et répétez jusqu’à la fin.
 
 ### Nom d’expéditeur
 
-**Nom d’expéditeur** .<br />
+**Nom d’expéditeur** .
+
 **Ex : EPP ORPHEE**
+
 :::warning
 
 Le nom d’expéditeur doit être constitué de 11 caractères donc vous pouvez abréger le nom de votre école s’il est long.
