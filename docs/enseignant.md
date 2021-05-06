@@ -5,8 +5,9 @@ title: Enseignants
 
 ## Enseignants
 
-Cette partie consiste à créer les profils de tous les enseignants de votre établissement <br />
-Pour ce faire cliquez sur **Enseignants** dans le menu de navigation bleu à gauche de votre ecran
+Cette partie consiste à créer les profils de tous les enseignants de votre établissement.
+
+Pour ce faire cliquez sur **Enseignants** dans le menu de navigation à gauche de votre ecran
 
 ![img](../static/img/Enseignant/Enseignant1.PNG)
 

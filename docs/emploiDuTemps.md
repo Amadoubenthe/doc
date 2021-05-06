@@ -4,8 +4,9 @@ title: Emploi du temps
 ---
 ## Emploi du temps
 
-Dans cette partie, vous devez créer les emplois du temps pour chaque partie<br/>
-Pour cela cliquez sur **Emploi du temps** dans le menu de navigation en bleu
+Dans cette partie, vous devez créer les emplois du temps pour chaque niveau.
+
+Pour cela cliquez sur **Emploi du temps** dans le menu de navigation bleu à gauche de votre ecran
 
 ![img](../static/img/EmploiDuTemps/emploiTemps.PNG)
 
@@ -21,9 +22,10 @@ Et pour le niveau sélectionné, renseignez les matières de l’emploi du temps
 
 ![img](../static/img/EmploiDuTemps/emploiTemps4.PNG)
 
-Cliquez sur **Modifier** pour mettre à jour l’emploi du temps.<br />
+Cliquez sur **Modifier** pour mettre à jour l’emploi du temps.
+
 Cliquez sur **Retour** pour accéder à la première page.
 
-Sur la première page, vous pouvez sélectionner un niveau dans le champ **sélectionner un niveau** et afficher l’emploi du temps (vous pouvez le modifier)
+Sur la première page, vous pouvez sélectionner un niveau dans le champ **sélectionner un niveau** et afficher l’emploi du temps du niveau sélectionné  (vous pouvez le modifier)
 
 ![img](../static/img/EmploiDuTemps/emploiTemps5.PNG)

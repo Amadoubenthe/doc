@@ -9,14 +9,16 @@ Pour aller sur le module de communication cliquez sur **Communication** dans le 
 
 ![img](../static/img/Communication/Comm2.PNG)
 
-Le module de communication comprend 2 parties <br />
-**Nouvelle campagne** et **Satistiques de communication**
+Le module de communication comprend deux parties:
+
+- **Nouvelle campagne**
+- **Satistiques de communication**
 
 ### Nouvelle campagne (Pour le cas d'envoi a un group de contact)
 
 #### 1 - Cas d’un envoi de messages simple à un groupe de contacts (classes ou niveaux)
 
-Renseigner le **Nouvelle campagne** dans la zone de travail
+Renseigner le nom de la campagne dans le champ **Nouvelle campagne** dans la zone de travail
 
 ![img](../static/img/Communication/commGroupe.PNG)
 
@@ -24,10 +26,11 @@ Cliquez sur **Group** dans la zone de travail ensuite cliquez sur le button **SE
 
 ![img](../static/img/Communication/CommBoiteDialogue.PNG)
 
-Ensuite sélectionnez le groupe sur la boite de dialoge qui s'affiche (ce groupe peut être un niveau ou une classe).<br />
+Ensuite sélectionnez le groupe dans la boite de dialoge qui s'affiche (ce groupe peut être un niveau ou une classe).
+
 Puis cliquez sur le button **Confirmer**.
 
-Sélectionnez un nom d’Expéditeur en cliquant sur le champs **Sélectionnez un nom d’Expéditeur** dans la zone de travail, (lorsque vous cliquez sur ***sélectionnez un nom d’expéditeur***, la liste de vos noms d’expéditeurs s’affichera, cliquez sur celui que vous souhaitez utiliser pour la présente campagne).
+Sélectionnez un nom d’Expéditeur en cliquant sur le champ **Sélectionnez un nom d’Expéditeur** dans la zone de travail, (lorsque vous cliquez sur ***sélectionnez un nom d’expéditeur***, la liste de vos noms d’expéditeurs s’affichera, cliquez sur celui que vous souhaitez utiliser pour la présente campagne).
 
 Sélectionnez un modèle de message en cliquant dans le champs **Sélectionnez un modèle de message** si vous en avez un que vous souhaitez utiliser / ou écrivez directement le message dans le champ prévu à cet effet.
 
