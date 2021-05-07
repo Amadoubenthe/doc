@@ -25,7 +25,16 @@ Puis la date de tenue dans **Date** ensuite cliquez sur le bouton **Ajouter**.
 
 Vous pouvez filtrer les compositions par niveau en cliquant sur **Filtrer par Niveau** : les modifier en cliquant sur l'icône du **crayon** ou les supprimer en cliquant sur l'icône de **la corbeille**.
 
-![img](../static/img/ComposNote/ComposNote2.PNG)
+<!-- ![img](../static/img/ComposNote/ComposNote2.PNG) -->
+
+![img](../static/img/ComposNote/ComposFiltre.PNG)
+
+Une fois que la classe est sélectionné, la liste des compositions va s'afficher s'il en existe.
+
+Vous pouvez imprimer la liste des compositions dans un fichier Excel, en cliquant sur l'icône d'importation (voir flèche sur l'image)
+
+![img](../static/img/ComposNote/CompoImporter.PNG)
+
 
 ### Etat de note
 
@@ -33,7 +42,9 @@ Pour accéder à l’état des notes cliquez sur **Etat des Notes**
 
 ![img](../static/img/ComposNote/Notes.PNG)
 
-Sélectionner une classe en cliquant sur **Classe** dans la zone de travail,
-Puis la composition pour laquelle vous voulez avoir les états en cliquant sur **Composition**.
+Sélectionner une classe en cliquant sur **Classe** (flèche 1) dans la zone de travail,
+Puis la composition pour laquelle vous voulez avoir les états en cliquant sur **Composition** (flèche 2).
+
+![img](../static/img/ComposNote/CompoEtatNote.PNG)
  
 Vous pouvez générer les états sous forme de documents PDF afin de les imprimer en cliquant sur **IMPRIMER** en haut à droite

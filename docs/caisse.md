@@ -31,7 +31,7 @@ Apres quelques secondes le reçu sera générer et accessible dans votre dossier
 
 ![img](../static/img/Caisse/CaisseGen.PNG)
 
-Vous pouvez l'ouvrir 
+Vous pouvez l'ouvrir
 
 ![img](../static/img/Caisse/CaisseR4.PNG)
 
