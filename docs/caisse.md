@@ -15,6 +15,26 @@ Cette partie ne concerne que les opérations d’entrée en caisse.
 
 ![img](../static/img/Caisse/CaisseOperation.PNG)
 
+Pour effectuer le paiement d’un élève veillez renseigner le nom de l’élève dans le champ **Sélectionnez un élève**
+
+![img](../static/img/Caisse/CaisseR1.PNG)
+
+Quand vous aller commencer à saisir le nom de l’élève,  la liste des élèves portant le même nom vont s’afficher, veuillez sélectionner le bon nom, une fois que l’élève est sélectionné les frais qu’il doit vont s’afficher.
+
+![img](../static/img/Caisse/CaisseR2.PNG)
+
+Cocher tous les frais qu’il a payé et cliquez sur le buton **VALIDER LE PAIEMENT**
+
+![img](../static/img/Caisse/CaisseR3.PNG)
+
+Apres quelques secondes le reçu sera générer et accessible dans votre dossier de téléchargement.
+
+![img](../static/img/Caisse/CaisseGen.PNG)
+
+Vous pouvez l'ouvrir 
+
+![img](../static/img/Caisse/CaisseR4.PNG)
+
 
 ### Etat de la caisse
 
