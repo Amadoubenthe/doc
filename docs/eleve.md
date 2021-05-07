@@ -27,7 +27,7 @@ Vous pouvez transférer l’élève dans une autre classe en cliquant sur **la f
 
 Vous pouvez imprimer la liste des élèves d’une classe.
 
-Pour cela veillez sélectionner le classe que vous voulez imprimer (voir flèche 1), la liste des élèves de la classe sélectionner va s’afficher, ensuite cliquez sur l’icone d’impression (voir flèche 2).
+Pour cela veillez sélectionner la classe que vous voulez imprimer (voir flèche 1), la liste des élèves de la classe sélectionner va s’afficher, ensuite cliquez sur l’icone d’impression (voir flèche 2).
 
 ![img](../static/img/Eleve/ImpListeEleve.PNG)
 
