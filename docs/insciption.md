@@ -5,8 +5,9 @@ title: Inscription & Réinscription
 
 ## Inscription
 
-Ce module comprend la partie **INSCRIPTION** et **REINSCRIPTION**.<br />
-Pour inscrire un nouvel élève allez sur **Inscription** dans le menu de navigation en bleue à gauche de votre ecran.
+Ce module comprend la partie **INSCRIPTION** et **REINSCRIPTION**.
+
+Pour inscrire un nouvel élève allez sur **Inscription** dans le menu de navigation en bleu à gauche de votre ecran.
 
 ![img](../static/img/Inscription/Inscription0.PNG)
 
@@ -27,6 +28,18 @@ Vous pouvez ajouter une photo
 Une fois que vous avez fini de renseigner les informations cliquez sur le bouton **Enregistrer**.
 
 ![img](../static/img/Inscription/NouvelleInscriptionEnregistrer.jpg)
+
+Une fois que vous avez enregistrer un élève une alerte va s’afficher vous demandant de TELECHARGER LE RECU.
+
+Veuillez cliquer sur **TELECHARGER LE RECU**.
+
+![img](../static/img/Inscription/GenRecu1.PNG)
+
+![img](../static/img/Inscription/GenRecu2.PNG)
+
+Apres quelques secondes le reçu sera générer et accessible dans votre dossier de téléchargement.
+
+![img](../static/img/Inscription/GenRecu3.PNG)
 
 :::note
 
