@@ -39,9 +39,13 @@ Vous pouvez l'ouvrir
 ### Etat de la caisse
 
 Il s’agit ici de vérifier les actions effectuées à la caisse et de clôturer la journée lorsqu’on a fini de travailler.
+
 Vous pouvez également effectuer un suivi de caisse en sélectionnant le caissier pour lequel vous voulez effectuer le suivi
 
 ![img](../static/img/Caisse/CaisseEtat.PNG)
 
 ### Cloturer la caisse
 
+Une fois que vous avez finis les opérations de la caisse pour une journée, vous devez clôturer la journée en cliquant sur le bouton **CLOTURER**
+
+![img](../static/img/Caisse/Cloturer.PNG)

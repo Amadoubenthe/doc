@@ -7,7 +7,7 @@ title: Compositions et notes
 
 Il s'agit dans ce module de définir les compositions et de voir l'état des notes.
 
-Pour aller sur compositions et notes, cliquez sur **Compos et notes** dans le menu de navigation en bleu à gauche de votre ecran.
+Pour ce faire aller sur compositions et notes en cliquant sur **Compos et notes** dans le menu de navigation bleu à gauche de votre ecran.
 
 ![img](../static/img/ComposNote/ComposNote.PNG)
 
@@ -23,9 +23,7 @@ Renseignez le nom de la composition dans **Nom de la composition**
 
 Puis la date de tenue dans **Date** ensuite cliquez sur le bouton **Ajouter**.
 
-Vous pouvez filtrer les compositions par niveau en cliquant sur **Filtrer par Niveau** : les modifier en cliquant sur l'icône du **crayon** ou les supprimer en cliquant sur l'icône de **la corbeille**.
-
-<!-- ![img](../static/img/ComposNote/ComposNote2.PNG) -->
+Vous pouvez filtrer les compositions par niveau en cliquant sur **Filtrer par Niveau** et choisissez le niveau ou la classe.
 
 ![img](../static/img/ComposNote/ComposFiltre.PNG)
 
@@ -34,6 +32,8 @@ Une fois que la classe est sélectionné, la liste des compositions va s'affiche
 Vous pouvez imprimer la liste des compositions dans un fichier Excel, en cliquant sur l'icône d'importation (voir flèche sur l'image)
 
 ![img](../static/img/ComposNote/CompoImporter.PNG)
+
+Vous pouvez modifier une composition en cliquant sur l'icône du crayon ou supprimer une composition en cliquant sur l'icône de la corbeille.
 
 
 ### Etat de note

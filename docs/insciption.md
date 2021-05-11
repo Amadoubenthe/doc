@@ -73,7 +73,7 @@ Il s'agit ici de voir l'etat des inscriptions
 
 Vous pouvez aussi importer l'état des inscriptions.
 
-Pour ce faire sélectionner le niveau dans le menu latéral
+Pour ce faire sélectionner la classe que vous voulez importer dans le menu latéral
 
 ![img](../static/img/Inscription/EtatNote1.PNG)
 

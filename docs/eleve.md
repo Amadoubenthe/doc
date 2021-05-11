@@ -5,7 +5,7 @@ title: Elèves
 
 ## Élèves
 
-Il s’agit de voir la liste de tous les élèves de votre établissement et pouvoir faire des actions sur les élèves tel qu’imprimer la liste des élèves d’une classe, transférer un élève etc.
+Il s’agit de voir la liste de tous les élèves de votre établissement, et de pouvoir faire des actions sur les élèves tel qu’imprimer la liste des élèves d’une classe, transférer un élève etc.
 
 Sur le menu de navigation bleu à gauche de votre ecran cliquez sur **Elèves**
 
