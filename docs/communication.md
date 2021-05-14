@@ -5,7 +5,7 @@ title: Communication
 
 ## Communication
 
-Pour aller sur le module de communication cliquez sur **Communication** dans le menu de navigation bleu à gauche.
+Pour aller dans le module de communication cliquez sur **Communication** dans le menu latéral bleu à gauche.
 
 ![img](../static/img/Communication/Comm2.PNG)
 

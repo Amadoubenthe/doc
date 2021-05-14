@@ -23,22 +23,22 @@ le mot de passe par défaut est: 123456789
 
 Le tableau de bord est composé de trois parties principales:
 - La Barre de navigation
-- Le Menu de navigation
+- Le Menu latéral
 - La Zone de travail
 
 ### Barre de navigation
 
 La barre de navigation se situe en haut de votre ecran elle contient :
 
-- Un bouton qui va vous permettre de dérouler le menu de navigation, elle se situe à gauche de la barre de navigation
+- Un bouton qui va vous permettre de dérouler le Menu latéral, elle se situe à gauche de la barre de navigation
 - Un champs Année scolaire pour sélectionner une année (l’année en cours sera l’année sélectionner par défaut)
 - Un bouton qui va vous permettre de voir les sections **Mon profil**, **Mon compte** et **se déconnecter**. Ce bouton se trouve à droite de la barre de navigation.
 
 ![img](../static/img/Presentation/tBarNav.PNG)
 
-### Menu de navigation
+### Menu latéral
 
-Le menu de navigation, qui est en bleue et se trouve à gauche de votre écran, il va vous permettre de naviguer entre les différents modules (sections) qu’offre Akylix
+Le Menu latéral, qui est en bleue et se trouve à gauche de votre écran, il va vous permettre de naviguer entre les différents modules (sections) qu’offre Akylix
 
 - Tableau de bord
 - Classes

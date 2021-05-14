@@ -7,7 +7,7 @@ title: Compositions et notes
 
 Il s'agit dans ce module de définir les compositions et de voir l'état des notes.
 
-Pour ce faire aller sur compositions et notes en cliquant sur **Compos et notes** dans le menu de navigation bleu à gauche de votre ecran.
+Pour ce faire aller sur compositions et notes en cliquant sur **Compos et notes** dans le Menu latéral bleu à gauche de votre ecran.
 
 ![img](../static/img/ComposNote/ComposNote.PNG)
 

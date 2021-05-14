@@ -7,7 +7,7 @@ title: Classes
 
 Il s’agit ici de créer des classes et de les attribuer un enseignant déja crée dans la partie ***Enseignant***.
 
-Pour cela cliquez sur **Classes** dans le menu de navigation bleu à gauche à gauche de votre ecran
+Pour cela cliquez sur **Classes** dans le Menu latéral bleu à gauche à gauche de votre ecran
 
 ![img](../static/img/Classe/Classe1.PNG)
 

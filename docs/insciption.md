@@ -9,7 +9,7 @@ Ce module comprend la partie **INSCRIPTION** et **REINSCRIPTION**.
 
 La partie **INSCRIPTION** concerne les nouveaux élèves et la partie **REINSCRIPTION** pour les anciens élèves.
 
-Pour inscrire un nouvel élève allez sur **Inscription** dans le menu de navigation en bleu à gauche de votre ecran.
+Pour inscrire un nouvel élève allez sur **Inscription** dans le menu latéral en bleu à gauche de votre ecran.
 
 ![img](../static/img/Inscription/Inscription0.PNG)
 
@@ -21,6 +21,12 @@ Pour inscrire un nouvel élève cliquez sur **Nouvelle inscription** dans la zon
 
 ![img](../static/img/Inscription/NouvelleInscription.PNG)
 
+:::note
+
+le bouton **Désactiver les champs obligatoires** permet de désactiver les champs obligatoires lors de l'inscription d'un élève, mais il est recommandé de renseigner autant d'information possible.
+
+:::
+
 Une fois sur cette page renseignez les informations de l'élève, **seule les champs comportant un astérix (*)** sont obligatoires. Les autres informations peuvent être renseignée plus tard.
 
 Vous pouvez ajouter une photo 
@@ -29,7 +35,7 @@ Une fois que vous avez fini de renseigner les informations cliquez sur le bouton
 
 ![img](../static/img/Inscription/NouvelleInscriptionEnregistrer.jpg)
 
-Une fois que vous avez enregistrer un élève une alerte va s’afficher vous demandant de TELECHARGER LE RECU.
+Une fois que vous avez enregistrer un élève une notification va s’afficher vous demandant de TELECHARGER LE RECU.
 
 Veuillez cliquer sur **TELECHARGER LE RECU**.
 
@@ -40,12 +46,6 @@ Veuillez cliquer sur **TELECHARGER LE RECU**.
 Apres quelques secondes le reçu sera générer et accessible dans votre dossier de téléchargement.
 
 ![img](../static/img/Inscription/GenRecu3.PNG)
-
-:::note
-
-le bouton **Désactiver les champs obligatoires** permet de désactiver les champs obligatoires lors de l'inscription d'un élève, mais il est recommandé de renseigner autant d'information possible.
-
-:::
 
 ### Impression liste élèves
 

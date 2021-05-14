@@ -15,22 +15,22 @@ Puis cliquez sur le bouton **SE CONNECTER**, vous serez rediriger sur une nouvel
 
 Le tableau de bord est composé de trois parties principales:
 - La Barre de navigation
-- Le Menu de navigation
+- Le Menu latéral
 - La Zone de travail
 
 ### Barre de navigation
 
 La barre de navigation se situe en haut de votre ecran elle contient :
 
-- Un bouton qui va vous permettre de dérouler le menu de navigation, elle se situe à gauche de la barre de navigation
+- Un bouton qui va vous permettre de dérouler le Menu latéral, elle se situe à gauche de la barre de navigation
 - Un champs Année scolaire pour sélectionner une année (l’année en cours sera l’année sélectionner par défaut)
 - Un bouton qui va vous permettre de voir les sections **Mon profil**, **Mon compte** et **se déconnecter**. Ce bouton se trouve à droite de la barre de navigation.
 
 ![img](../static/img/BarreNav.jpg)
 
-### Menu de navigation
+### Menu latéral
 
-Le menu de navigation, qui est en bleue et se trouve à gauche de votre écran, il va vous permettre de naviguer entre les différents modules (sections) qu’offre Akylix
+Le Menu latéral, qui est en bleue et se trouve à gauche de votre écran, il va vous permettre de naviguer entre les différents modules (sections) qu’offre Akylix
 
 ![img](../static/img/MenuNav.jpg)
 
@@ -46,23 +46,23 @@ La zone de travail est la partie située au milieu de votre écran, elle va vous
 
 Le superviseur est celui qui gère un ou plusieurs établissements scolaires et en a une vue Globale.
 
-Pour dérouler le menu de navigation à gauche de votre écran, cliquez sur les trois traits dans la bare de navigation à côté d'Akylix en haut à gauche de votre écran.
+Pour dérouler le Menu latéral à gauche de votre écran, cliquez sur les trois traits dans la bare de navigation à côté d'Akylix en haut à gauche de votre écran.
 
-![img](../static/img/Deroulant.png)
+![img](../static/img/Deroulant.jpg)
 
 ---
 
 ## Création d’année scolaire
 
-Pour définir les années scolaires cliquez sur **Mes années scolaires** dans le menu de navigation
+Pour définir les années scolaires cliquez sur le module **Mes années scolaires** dans le Menu latéral
 
-![img](../static/img/AnneeScolaires2.jpg)
+![img](../static/img/AnneCreate.jpg)
 
-Cliquez sur la zone **Année scolaires** dans la zone de travail et saisissez l'année sous le format suivant **2020-2021** puis cliquez sur le bouton **Ajouter**
+Cliquez sur le module **Mes années scolaires** (flèche 1) dans le Menu latéral ensuite cliquez dans la zone **Année scolaires** (flèche 2) dans la zone de travail et saisissez l'année sous le format suivant **2020-2021** (flèche 2) puis cliquez sur le bouton **Ajouter** (flèche 3)
 
 ## Profils et utilisateurs
 
-Pour définir les Profils et utilisateurs cliquez sur **Profils et utilisateurs** dans le menu de navigation puis sélectionnez votre école grâce à l'onglet **Sélectionner une école** dans la zone de travail.
+Pour définir les Profils et utilisateurs cliquez sur **Profils et utilisateurs** (flèche 1) dans le Menu latéral puis sélectionnez votre école grâce à l'onglet **Sélectionner une école** (flèche 2) dans la zone de travail.
 
 ![img](../static/img/ProfilUtilisateur12.jpg)
 

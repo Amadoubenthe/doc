@@ -70,29 +70,38 @@ Pour soumettre votre établissement cliquez sur le bouton **SOUMETTRE MON ETABLI
 
 Une fois sur la page de soumission d'établissement vous devez renseignez les informations de votre établissement.
 
-**Nom d'établissement** : il s'agit de renseigner le nom de votre établissement<br />
-**Code école**: (facultatif) il s'agit de renseigner le code de votre école s'il en existe<br />
-**Adresse**: Il s'agit de renseigner la ville ou votre école se situe <br />
-**Adresse e-mail**: Il s'agit ici de renseigner l'adresse e-mail de votre établissement <br />
-**Numéro de téléphone**: Il s'agit ici de renseigner le numéro de téléphone de votre établissement <br />
-**Nom du superviseur**: Il s'agit ici de renseigner le nom du superviseur de l'établissement. (Au privée le superviseur peut être le Fondateur ou toute personne qui est chargée de superviser l'ensemble des activités de l'établissement. Au public le superviseur sera le Directeur)<br />
-**Adresse e-mail du superviseur**: Ici vous allez renseigner l'addresse e-mail du superviseur. (l'adresse e-mail utilisé ici sera l'identifiant du superviseur)<br />
+**Nom d'établissement** : il s'agit de renseigner le nom de votre établissement
+
+**Code école**: (facultatif) il s'agit de renseigner le code de votre école s'il en existe
+
+**Adresse**: Il s'agit de renseigner la ville ou votre école se situe 
+
+**Adresse e-mail**: Il s'agit ici de renseigner l'adresse e-mail de votre établissement 
+
+**Numéro de téléphone**: Il s'agit ici de renseigner le numéro de téléphone de votre établissement 
+
+**Nom du superviseur**: Il s'agit ici de renseigner le nom du superviseur de l'établissement. (Au privée le superviseur peut être le Fondateur ou toute personne qui est chargée de superviser l'ensemble des activités de l'établissement. Au public le superviseur sera le Directeur)
+
+**Adresse e-mail du superviseur**: Ici vous allez renseigner l'addresse e-mail du superviseur. (l'adresse e-mail utilisé ici sera l'identifiant du superviseur)
+
 **J'accepte les conditions générales d'utilisation**: Vous devez cocher cette case pour accepter les conditions générales d'utilisation.
 
 ![img](../static/img/Soumettre.png)
 
-Apres avoir finis de renseigner toutes les information cochez la case **J'accepte les conditions générales d'utilisation**<br />
+Apres avoir finis de renseigner toutes les information cochez la case **J'accepte les conditions générales d'utilisation**
+
 Ensuite cliquez sur le bouton **SOUMETTRE MON ETABLISSEMENT**
 
 :::note
 
-Tous les champs comportant un astérix (*) sont obligatoires<br />
-Les adresses e-mails s’écrivent en minuscule et ne comportent pas d'espace<br />
+Tous les champs comportant un astérix (*) sont obligatoires
+
+Les adresses e-mails s’écrivent en minuscule et ne comportent pas d'espace
+
 Précédez de 225 les contacts téléphoniques et n’y ajoutez aucun espace
 
 :::
 
-<!-- ![img](../static/img/Soumissiondiallo.PNG) -->
 
 :::note
 

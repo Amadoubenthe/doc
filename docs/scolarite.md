@@ -6,7 +6,7 @@ title: Scolarité
 ## Scolarité
 
 Il s'agit ici de voir le Bilan général de votre établissement,
-pour cela cliquer sur **Scolarité** dans le menu de navigation.
+pour cela cliquer sur **Scolarité** dans le Menu latéral.
 
 ![img](../static/img/Scolarite/Scolarite.PNG)
 

@@ -6,7 +6,7 @@ title: Emploi du temps
 
 Dans cette partie, vous devez créer les emplois du temps pour chaque niveau.
 
-Pour cela cliquez sur **Emploi du temps** dans le menu de navigation bleu à gauche de votre ecran
+Pour cela cliquez sur **Emploi du temps** dans le Menu latéral bleu à gauche de votre ecran
 
 ![img](../static/img/EmploiDuTemps/emploiTemps.PNG)
 

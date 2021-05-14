@@ -5,13 +5,20 @@ title: Configuration
 
 ## Configuration
 
-Pour aller sur **Configuration**  cliquez sur **Configuration** sur le menu de navigation en bleue à gauche de votre ecran.
+:::important
+
+Les informations de configuration sont des informations qui peuvent changer chaque année.
+
+:::
+
+Pour aller sur **Configuration**  cliquez sur **Configuration** sur le menu latéral en bleu à gauche de votre ecran.
 
 ![img](../static/img/Administrateur/Configuration/Configuration.PNG)
 
 ### Frais annexes
 
-Il s'agit ici de renseigner tous les frais d'annexe<br/>
+Il s'agit ici de renseigner tous les frais d'annexe
+
 Pour ce faire, cliquez sur **AJOUTER DES FRAIS D'ANNEXES**
 
 ![img](../static/img/Configuration/Ajout.PNG)
@@ -21,16 +28,20 @@ Ensuite cliquez sur **Sélectionner un niveau** et sélectionnez le niveau **CP1
 ![img](../static/img/Configuration/Ajout2.PNG)
 
 ![img](../static/img/Configuration/Ajout3.PNG)
-Dans le champ **Label** écriver l’intitulé du frais<br/>
-Dans le champ **Valeur** le montant<br/>
-Cliquez sur l’icône **+** pour l’ajouter, et répétez l’action jusqu’à constituer l’entièreté des frais annexes pour ce niveau <br />
-Apres avoir fini de renseigner les frais annexxe cliquez sur le bouton **ENREGISTRER** en haut à droite de votre ecran.
+Dans le champ **Label** écrivez l’intitulé du frais
+
+Dans le champ **Valeur** renseignez le montant
+
+Cliquez sur l’icône (**+**) pour l’ajouter, et répétez l’action jusqu’à constituer l’entièreté des frais annexes pour ce niveau.
+
+Apres avoir fini de renseigner les frais annexe cliquez sur le bouton **ENREGISTRER** en haut à droite de votre ecran.
 
 Refaire la même action pour les autres niveaux.
 
 ### Frais de communication
 
-Les frais de communication s’élèvent à **1000f** par défaut <br />
+Les frais de communication s’élèvent à **1000f** par défaut
+
 Cliquez donc sur **Enregistrer**
 
 ![img](../static/img/Configuration/frais.PNG)
@@ -41,8 +52,9 @@ Il s'agit de renseigner les droits d'inscription pour chaque niveau, aller sur *
 
 ![img](../static/img/Configuration/droitInscriptipon.PNG)
 
-Sélectionnez un niveau en Cliquant sur **Niveau** <br />
-Renseignez le **Montant** du droit d’inscription pour ce niveau et cliquez sur **Ajouter**
+Sélectionnez un niveau en cliquant dans le champ **Niveau** 
+
+Renseignez le montant du droit d’inscription pour ce niveau dans le champ **Montant** et cliquez sur **Ajouter**
 
 Répéter l’action pour les autres niveaux
 
@@ -52,13 +64,13 @@ Il s'agit de renseigner les frais de scolarité pour chaque niveau, pour cela al
 
 ![img](../static/img/Configuration/fraisScolarite.PNG)
 
-Sélectionnez un niveau en Cliquant sur **Niveau** <br />
-Ecrivez le montant de la scolarité sur **Montant** puis cliquez sur **Ajouter**
+Sélectionnez un niveau en cliquant dans le champ **Niveau** 
 
+Ecrivez le montant de la scolarité dans le champs **Montant** puis cliquez sur **Ajouter**
 
 ### Échéances de Scolarités
 
-Il s'agit de renseigner les Échéances de Scolarités, allez sur **Échéances de Scolarités** dans la zone de travail
+Il s'agit de renseigner les échéances de Scolarités, allez sur **Échéances de Scolarités** dans la zone de travail
 
 ![img](../static/img/Configuration/EScolarite1.PNG)
 

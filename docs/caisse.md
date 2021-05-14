@@ -5,7 +5,7 @@ title: Caisse
 
 ## Caisse
 
-Pour allez sur la caisse, cliquez sur le module **Caisse** dans le menu de navigation en bleu à gauche de votre ecran
+Pour allez sur la caisse, cliquez sur le module **Caisse** dans le Menu latéral en bleu à gauche de votre ecran
 
 ![img](../static/img/Caisse/Caisse1.PNG)
 

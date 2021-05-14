@@ -7,7 +7,7 @@ title: Elèves
 
 Il s’agit de voir la liste de tous les élèves de votre établissement, et de pouvoir faire des actions sur les élèves tel qu’imprimer la liste des élèves d’une classe, transférer un élève etc.
 
-Sur le menu de navigation bleu à gauche de votre ecran cliquez sur **Elèves**
+Sur le menu latéral bleu à gauche de votre ecran cliquez sur **Elèves**
 
 ![img](../static/img/Eleve/Eleve1.PNG)
 
@@ -19,9 +19,9 @@ Vous pouvez sélectionnez une classe, la liste des élèves de cette classe va s
 
 Vous pouvez filtrer la liste par niveau et par classe, et ainsi pour chaque élève avoir ses informations.
 
-Vous pouvez accéder au dossier scolaire en cliquant sur **l’icône de l’œil** dans la partie **Actions** dans la zone de travail.
+Vous pouvez accéder au dossier scolaire de l'élève en cliquant sur **l’icône de l’œil** dans la partie **Actions** dans la zone de travail.
 
-Vous pouvez transférer l’élève dans une autre classe en cliquant sur **la flèche** juste après **l’œil** dans la partie **Actions**.
+Vous pouvez transférer l’élève dans une autre classe en cliquant sur **l’icône de la flèche** juste après **l’icône de l’œil** dans la partie **Actions**.
 
 ### Impression liste élèves
 

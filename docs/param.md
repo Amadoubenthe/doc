@@ -7,11 +7,11 @@ title: Parametrages
 
 :::important
 
-La première chose à faire est de paramétrer l’application (Les informations des paramètres sont des informations qui ne changent pas forcement chaque année
+La première chose à faire est de paramétrer l’application (Les informations des paramètres sont des informations qui ne changent pas forcement chaque année)
 
 :::
 
-Dans le menu de navigation à gauche, cliquez sur **Paramètres**, l'avant dernier menu
+Dans le Menu latéral à gauche, cliquez sur **Paramètres**, l'avant dernier module
 
 ![img](../static/img/Param1.PNG)
 
@@ -90,7 +90,7 @@ Ensuite cliquez sur **Selectionner un Niveau** pour selectionner le niveau.
 
 Ensuite ecrivez l’intitulé du dossier dans le champ **Libelle du Document**
 
-Puis cliquez sur le bouton **+** 
+Puis cliquez sur le bouton (**+**) juste à côté le champ **Libelle du Document**.
 
 Après avoir fini de renseigner tous les dossiers cliquez sur le bouton **ENREGISTRER**
 
