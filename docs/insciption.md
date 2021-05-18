@@ -25,6 +25,8 @@ Pour inscrire un nouvel élève cliquez sur **Nouvelle inscription** dans la zon
 
 le bouton **Désactiver les champs obligatoires** permet de désactiver les champs obligatoires lors de l'inscription d'un élève, mais il est recommandé de renseigner autant d'information possible.
 
+Vous pouvez utilisez cette option si vous n'avez pas toutes les informations requises sur l'élève. Attention! le nom, le(s) prénom(s) de l'élève et sa classe restent obligatoires.
+
 :::
 
 Une fois sur cette page renseignez les informations de l'élève, **seule les champs comportant un astérix (*)** sont obligatoires. Les autres informations peuvent être renseignée plus tard.
